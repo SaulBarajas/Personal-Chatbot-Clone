@@ -102,7 +102,7 @@ class Llama4bitLLM(LLMInterface):
         
         return assistant_response
     
-class llamaLLM(LLMInterface):
+class llama8bLLM(LLMInterface):
     
     def __init__(self):
         self.client = OpenAI(api_key=os.getenv("OPENROUTER_API_KEY"), 
@@ -119,15 +119,49 @@ class llamaLLM(LLMInterface):
         )
         return completion.choices[0].message.content
     
+class llama70bLLM(LLMInterface):
+    
+    def __init__(self):
+        self.client = OpenAI(api_key=os.getenv("OPENROUTER_API_KEY"), 
+                    base_url="https://openrouter.ai/api/v1",)
+    
+    def invoke(self, messages: List[Dict[str,str]]) -> str:
+        completion = self.client.chat.completions.create(
+            messages=messages,
+            model="meta-llama/llama-3.1-70b-instruct",
+            extra_body={
+                "temperature": 0.0,
+                "provider": {"order": ["Hyperbolic", "Fireworks", "OctoAI"]},
+            },
+        )
+        return completion.choices[0].message.content
+    
+class llama405bLLM(LLMInterface):
+    
+    def __init__(self):
+        self.client = OpenAI(api_key=os.getenv("OPENROUTER_API_KEY"), 
+                    base_url="https://openrouter.ai/api/v1",)
+    
+    def invoke(self, messages: List[Dict[str,str]]) -> str:
+        completion = self.client.chat.completions.create(
+            messages=messages,
+            model="meta-llama/llama-3.1-405b-instruct",
+            extra_body={
+                "temperature": 0.0,
+                "provider": {"order": ["Hyperbolic", "Fireworks", "OctoAI"]},
+            },
+        )
+        return completion.choices[0].message.content
+    
     
 class SaveableChat:
     def __init__(self, chat_id: str, user_id: str, llm: LLMInterface):
         self.chat_id = chat_id
         self.user_id = user_id
-        self.llm = llm
-        self.full_conversation_history = []  # For record-keeping
         self.name = None
         self.system_prompt = "You are a helpful assistant."
+        self.llm = llm
+        self.full_conversation_history = []  # For record-keeping
         self.recent_messages = deque(maxlen=500)  # Adjust maxlen as needed
         self.running_summary = ""
         self.message_count = 0
@@ -256,6 +290,33 @@ class SaveableChat:
         self.name = self.llm.invoke(naming_prompt).strip()
         return self.name
     
+    def edit_message(self, index: int, new_content: str) -> str:
+        if index < 0 or index >= len(self.full_conversation_history):
+            raise ValueError("Invalid message index")
+        
+        if self.full_conversation_history[index]['role'] != 'user':
+            raise ValueError("Can only edit user messages")
+        
+        # Update the message content
+        self.full_conversation_history[index]['content'] = new_content
+        
+        # Regenerate the response
+        conversation_up_to_edit = self.full_conversation_history[:index+1]
+        response = self.llm.invoke(conversation_up_to_edit)
+        
+        # Update the conversation history
+        self.full_conversation_history = conversation_up_to_edit + [{"role": "assistant", "content": response}]
+        
+        # Update recent_messages
+        self.recent_messages = deque(self.full_conversation_history[-self.recent_messages.maxlen:], maxlen=self.recent_messages.maxlen)
+        
+        # Update message count
+        self.message_count = len(self.full_conversation_history)
+        
+        # Clear the running summary as it may no longer be accurate
+        self.running_summary = ""
+        
+        return response
     
 
 class Chatbot:
@@ -337,9 +398,18 @@ class Chatbot:
         response = chat.get_response()
         chat.save()
         return response
-    
+
+    def edit_message(self, chat_id: str, user_id: str, message_index: int, new_content: str) -> str:
+        chat = self.get_chat(chat_id, user_id)
+        response = chat.edit_message(message_index, new_content)
+        chat.save()
+        return response
+
+# TODO: Add editting of messages 
+# (Thought for this would be to implement a tree structure of message index and versions in order to allow for multiple edits of the same message index and also allow them to keep different conversation instances.)
+# (This allows the user to look at a previous version of an edit the tree is to be able to keep track of different conversation instances with potentially different children edits.
 # TODO: Multi-user support: Implement a user management system to handle multiple users with authentication.
-#          nChat summarization: Add a feature to generate summaries of long conversations. TODO: Need to test this.
+# DONE: Chat summarization: Add a feature to generate summaries of long conversations.
 # TODO: Voice input/output: Add support for voice messages or text-to-speech for responses.
 # TODO: Image generation: Integrate an image generation model to create images based on text prompts.
 # TODO: Context-aware responses: Implement a feature to maintain longer-term context across multiple chat sessions.
@@ -355,9 +425,3 @@ if __name__ == "__main__":
     print(chatbot.get_user_chat_summaries())
     print(len(chatbot.get_chat(chat_id="1", user_id="saulb423").full_conversation_history))
     print(len(chatbot.get_chat(chat_id="1", user_id="saulb423").recent_messages))
-
-
-
-
-
-    

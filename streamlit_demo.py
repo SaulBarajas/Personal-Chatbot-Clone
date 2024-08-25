@@ -1,5 +1,5 @@
 import streamlit as st
-from chatbot_clone import Chatbot, llamaLLM, Llama4bitLLM, LLMInterface
+from chatbot_clone import Chatbot, llama8bLLM, Llama4bitLLM, llama70bLLM, llama405bLLM, LLMInterface
 import os
 from dotenv import load_dotenv
 import uuid
@@ -21,7 +21,9 @@ if 'page' not in st.session_state:
 
 # Available LLMs
 LLM_OPTIONS = {
-    "llamaLLM": llamaLLM,
+    "llama8bLLM": llama8bLLM,
+    "llama70bLLM": llama70bLLM,
+    "llama405bLLM": llama405bLLM,
     "Llama4bitLLM": Llama4bitLLM
 }
 
@@ -82,10 +84,16 @@ def login_page():
         # Here you should implement proper authentication
         # For this example, we'll just use the username as the user_id
         st.session_state.user_id = username
-        st.session_state.current_llm = llamaLLM()
+        st.session_state.current_llm = llama8bLLM()
         st.session_state.chatbot = Chatbot(st.session_state.current_llm, st.session_state.user_id)
         st.success("Logged in successfully!")
         st.experimental_rerun()
+
+# Add this function to handle message editing
+def edit_message(chat_id, message_index, new_content):
+    response = st.session_state.chatbot.edit_message(chat_id, st.session_state.user_id, message_index, new_content)
+    st.success("Message edited successfully!")
+    return response
 
 # Homepage
 def homepage():
@@ -156,10 +164,32 @@ def homepage():
         chat = st.session_state.chatbot.get_chat(st.session_state.current_chat_id, st.session_state.user_id)
         st.header(f"{chat.name} (Chat {st.session_state.current_chat_id[:8]})")
         
-        # Display chat history
-        for message in chat.full_conversation_history:
+        # Display chat history with edit buttons
+        for i, message in enumerate(chat.full_conversation_history):
             with st.chat_message(message["role"]):
-                st.write(message["content"])
+                # Create an empty container for each message
+                message_container = st.empty()
+                
+                # Display the message content or edit form based on the editing state
+                if 'editing_message' in st.session_state and st.session_state.editing_message == i:
+                    with message_container.container():
+                        new_content = st.text_input("Edit your message", value=message["content"], key=f"edit_input_{i}")
+                        col1, col2 = st.columns(2)
+                        with col1:
+                            if st.button("Update", key=f"update_{i}"):
+                                edit_message(st.session_state.current_chat_id, i, new_content)
+                                del st.session_state.editing_message
+                                st.experimental_rerun()
+                        with col2:
+                            if st.button("Cancel", key=f"cancel_{i}"):
+                                del st.session_state.editing_message
+                                st.experimental_rerun()
+                else:
+                    message_container.write(message["content"])
+                    if message["role"] == "user":
+                        if st.button("Edit", key=f"edit_{i}"):
+                            st.session_state.editing_message = i
+                            st.experimental_rerun()
     else:
         st.header("Start a New Chat")
         st.write("Type your message below to start a new chat.")
@@ -171,7 +201,6 @@ def homepage():
             create_new_chat(user_input)
         else:
             st.session_state.chatbot.chat(st.session_state.current_chat_id, st.session_state.user_id, user_input)
-            print(st.session_state.chatbot.llm)
         st.experimental_rerun()
         
         
