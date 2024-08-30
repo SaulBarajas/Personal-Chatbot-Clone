@@ -13,6 +13,7 @@ The chatbot currently includes the following functionalities:
 6. **Customizable System Prompt**: Allows changing the system prompt for the current chat, enabling personality or behavior adjustments.
 7. **Automatic Chat Titling**: Creates a title for each chat automatically based on the initial user message.
 8. **Chat History Sidebar**: Implements a sidebar that allows users to view and access their previous chats.
+9. **Graph-based Edit System**: A newly implemented feature that allows for sophisticated message editing and versioning. Viewable from sidebar.
 
 ## Project Objectives (TODOs)
 
