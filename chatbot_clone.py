@@ -353,6 +353,10 @@ class SaveableChat:
         chat.root_node = chat.node_map[data["root_node_id"]] if data["root_node_id"] else None
         chat.current_node = chat.node_map[data["current_node_id"]] if data["current_node_id"] else None
 
+        # Populate recent_messages
+        current_conversation = chat.get_current_conversation()
+        chat.recent_messages = deque(current_conversation[-chat.recent_messages.maxlen:], maxlen=chat.recent_messages.maxlen)
+
         return chat
 
     @classmethod
