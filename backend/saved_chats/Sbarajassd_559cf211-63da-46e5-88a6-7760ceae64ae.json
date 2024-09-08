@@ -1,0 +1,64 @@
+{
+  "chat_id": "559cf211-63da-46e5-88a6-7760ceae64ae",
+  "user_id": "Sbarajassd",
+  "name": "Python Coding",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 4,
+  "root_node_id": "f3e0c960-19fa-4f1d-8119-b7e571ff67b3",
+  "current_node_id": "394c8c06-32b2-4d08-a07f-f69e071459b5",
+  "node_map": {
+    "f3e0c960-19fa-4f1d-8119-b7e571ff67b3": {
+      "id": "f3e0c960-19fa-4f1d-8119-b7e571ff67b3",
+      "role": "user",
+      "content": "code in python",
+      "parent_id": null,
+      "children_ids": [
+        "070ec35e-b814-4ffc-a586-c4c04c8aa9e4"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T03:03:30.885869",
+      "last_accessed": "2024-09-02T09:42:01.851782"
+    },
+    "070ec35e-b814-4ffc-a586-c4c04c8aa9e4": {
+      "id": "070ec35e-b814-4ffc-a586-c4c04c8aa9e4",
+      "role": "assistant",
+      "content": "\n\nWhat would you like to code in Python? Do you have a specific project in mind or would you like me to suggest some ideas?",
+      "parent_id": "f3e0c960-19fa-4f1d-8119-b7e571ff67b3",
+      "children_ids": [
+        "07a4879a-2ea1-4099-a392-9f2c2bd645b2"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T03:03:31.857385",
+      "last_accessed": "2024-09-02T09:42:01.851782"
+    },
+    "07a4879a-2ea1-4099-a392-9f2c2bd645b2": {
+      "id": "07a4879a-2ea1-4099-a392-9f2c2bd645b2",
+      "role": "user",
+      "content": "anything",
+      "parent_id": "070ec35e-b814-4ffc-a586-c4c04c8aa9e4",
+      "children_ids": [
+        "394c8c06-32b2-4d08-a07f-f69e071459b5"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T03:03:35.975976",
+      "last_accessed": "2024-09-02T09:42:01.851782"
+    },
+    "394c8c06-32b2-4d08-a07f-f69e071459b5": {
+      "id": "394c8c06-32b2-4d08-a07f-f69e071459b5",
+      "role": "assistant",
+      "content": "\n\nHere are a few ideas for Python projects:\n\n1. **Guessing Game**: Create a game where the user has to guess a randomly generated number.\n2. **To-Do List App**: Build a simple to-do list app that allows users to add, remove, and mark tasks as completed.\n3. **Rock, Paper, Scissors**: Create a game of Rock, Paper, Scissors where the user can play against the computer.\n4. **Quiz Program**: Create a quiz program that asks the user a series of questions and keeps track of their score.\n5. **Weather Program**: Build a program that displays the current weather for a given location.\n\nWhich one of these ideas sounds interesting to you?\n\n(If you have a different idea, feel free to share it and I'll help you with the code!)\n\nHere's a simple example of a \"Hello World\" program in Python to get you started:\n```python\nprint(\"Hello, World!\")\n```\nLet me know when you're ready to start coding!",
+      "parent_id": "07a4879a-2ea1-4099-a392-9f2c2bd645b2",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T03:03:37.533944",
+      "last_accessed": "2024-09-02T09:42:01.851782"
+    }
+  },
+  "created": "2024-09-02T03:03:30.885869",
+  "last_accessed": "2024-09-02T09:42:01.851782"
+}

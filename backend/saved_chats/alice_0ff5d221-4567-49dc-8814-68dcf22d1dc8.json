@@ -1,0 +1,89 @@
+{
+  "chat_id": "0ff5d221-4567-49dc-8814-68dcf22d1dc8",
+  "user_id": "alice",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 5,
+  "root_node_id": "4aa56196-fe52-4b18-a357-c9cdb07be531",
+  "current_node_id": "96655865-6e91-48c6-8ce7-bc3545bdf77d",
+  "node_map": {
+    "4aa56196-fe52-4b18-a357-c9cdb07be531": {
+      "id": "4aa56196-fe52-4b18-a357-c9cdb07be531",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "9097113e-62b6-497d-8cbe-f1e9c99a18f4"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:30:43.269026",
+      "last_accessed": "2024-09-02T10:31:51.313042"
+    },
+    "9097113e-62b6-497d-8cbe-f1e9c99a18f4": {
+      "id": "9097113e-62b6-497d-8cbe-f1e9c99a18f4",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "4aa56196-fe52-4b18-a357-c9cdb07be531",
+      "children_ids": [
+        "9c59cbc5-cc7b-4447-824c-e48c3f57a5ec",
+        "9c59cbc5-cc7b-4447-824c-e48c3f57a5ec"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:30:44.150591",
+      "last_accessed": "2024-09-02T10:31:51.313042"
+    },
+    "c9c046e0-7bf3-4a10-bbb3-1773126b18de": {
+      "id": "c9c046e0-7bf3-4a10-bbb3-1773126b18de",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": "9097113e-62b6-497d-8cbe-f1e9c99a18f4",
+      "children_ids": [
+        "4a3e75d5-4173-4f47-ae8c-6efc8f7fd6cc"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "9c59cbc5-cc7b-4447-824c-e48c3f57a5ec",
+      "node_created": "2024-09-02T10:30:50.722791",
+      "last_accessed": "2024-09-02T10:31:51.313042"
+    },
+    "4a3e75d5-4173-4f47-ae8c-6efc8f7fd6cc": {
+      "id": "4a3e75d5-4173-4f47-ae8c-6efc8f7fd6cc",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating subject. What specifically would you like to learn? Are you looking to review a particular concept, or do you want to start from the basics and work your way up?\n\nHere are some options to get you started:\n\n1. **Basic math concepts**: We can review addition, subtraction, multiplication, and division, or move on to more advanced topics like fractions, decimals, and percentages.\n2. **Algebra**: We can explore equations, graphing, and functions, or dive into more advanced topics like systems of equations and quadratic equations.\n3. **Geometry**: We can learn about points, lines, angles, and shapes, or explore more advanced topics like trigonometry and 3D geometry.\n4. **Calculus**: We can introduce the basics of limits, derivatives, and integrals, or explore more advanced topics like differential equations and multivariable calculus.\n5. **Math topics of your choice**: Is there a specific area of math that interests you, such as statistics, probability, or number theory?\n\nLet me know which direction you'd like to take, and we can get started!",
+      "parent_id": "c9c046e0-7bf3-4a10-bbb3-1773126b18de",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:30:51.912546",
+      "last_accessed": "2024-09-02T10:31:51.313042"
+    },
+    "9c59cbc5-cc7b-4447-824c-e48c3f57a5ec": {
+      "id": "9c59cbc5-cc7b-4447-824c-e48c3f57a5ec",
+      "role": "user",
+      "content": "I want to learn comp sci",
+      "parent_id": "9097113e-62b6-497d-8cbe-f1e9c99a18f4",
+      "children_ids": [
+        "96655865-6e91-48c6-8ce7-bc3545bdf77d"
+      ],
+      "prev_edit_id": "c9c046e0-7bf3-4a10-bbb3-1773126b18de",
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:31:48.976683",
+      "last_accessed": "2024-09-02T10:31:51.313042"
+    },
+    "96655865-6e91-48c6-8ce7-bc3545bdf77d": {
+      "id": "96655865-6e91-48c6-8ce7-bc3545bdf77d",
+      "role": "assistant",
+      "content": "\n\nComp Sci (Computer Science) is a fascinating field that can lead to many exciting career opportunities.\n\nTo get started, let's break down the basics:\n\n1. **Programming languages**: You'll need to learn at least one programming language, such as Python, Java, C++, or JavaScript. Each language has its own strengths and weaknesses, so it's essential to choose one that interests you.\n2. **Data structures and algorithms**: Understanding how to store and manipulate data, as well as how to write efficient algorithms, is crucial in Comp Sci.\n3. **Computer systems**: You'll need to learn about computer architecture, operating systems, and networking.\n4. **Software engineering**: This involves designing, developing, and testing software applications.\n\nHere are some resources to help you get started:\n\n**Online courses**:\n\n* Codecademy (interactive coding lessons)\n* Coursera (university-level courses)\n* edX (massive open online courses)\n* Udemy (video courses)\n\n**Books**:\n\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Computer Organization and Design\" by David A. Patterson and John L. Hennessy\n* \"Clean Code\" by Robert C. Martin\n\n**Communities**:\n\n* Reddit's r/learnprogramming and r/compsci\n* Stack Overflow (Q&A platform for programmers)\n* GitHub (open-source code repository)\n\n**Tips**:\n\n* Start with the basics and build projects to apply your knowledge.\n* Practice coding regularly to develop problem-solving skills.\n* Join online communities to connect with other programmers and get help when you're stuck.\n\nWhich area of Comp Sci interests you the most?",
+      "parent_id": "9c59cbc5-cc7b-4447-824c-e48c3f57a5ec",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:31:51.313042",
+      "last_accessed": "2024-09-02T10:31:51.313042"
+    }
+  },
+  "created": "2024-09-02T10:30:43.269026",
+  "last_accessed": "2024-09-02T10:31:51.313042"
+}

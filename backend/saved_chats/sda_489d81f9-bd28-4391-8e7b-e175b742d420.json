@@ -1,0 +1,91 @@
+{
+  "chat_id": "489d81f9-bd28-4391-8e7b-e175b742d420",
+  "user_id": "sda",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 5,
+  "root_node_id": "67088667-df6d-460a-8985-4f4a087e229b",
+  "current_node_id": "915e90d7-e01a-44dd-b8a0-d3ef0256ea74",
+  "node_map": {
+    "67088667-df6d-460a-8985-4f4a087e229b": {
+      "id": "67088667-df6d-460a-8985-4f4a087e229b",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "d9680ad6-22af-4945-8e2d-f212384a1867"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T08:48:48.971630",
+      "last_accessed": "2024-09-03T08:55:44.952240"
+    },
+    "d9680ad6-22af-4945-8e2d-f212384a1867": {
+      "id": "d9680ad6-22af-4945-8e2d-f212384a1867",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "67088667-df6d-460a-8985-4f4a087e229b",
+      "children_ids": [
+        "790261eb-02f9-4a00-9d3b-6f859c3d42b1",
+        "790261eb-02f9-4a00-9d3b-6f859c3d42b1",
+        "790261eb-02f9-4a00-9d3b-6f859c3d42b1",
+        "915e90d7-e01a-44dd-b8a0-d3ef0256ea74"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T08:48:49.998356",
+      "last_accessed": "2024-09-03T08:55:44.952240"
+    },
+    "915e90d7-e01a-44dd-b8a0-d3ef0256ea74": {
+      "id": "915e90d7-e01a-44dd-b8a0-d3ef0256ea74",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": "d9680ad6-22af-4945-8e2d-f212384a1867",
+      "children_ids": [
+        "0f20ba1c-177e-4a76-8169-2f1de5e8002b"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "790261eb-02f9-4a00-9d3b-6f859c3d42b1",
+      "node_created": "2024-09-03T08:48:54.949284",
+      "last_accessed": "2024-09-03T08:55:44.952240"
+    },
+    "0f20ba1c-177e-4a76-8169-2f1de5e8002b": {
+      "id": "0f20ba1c-177e-4a76-8169-2f1de5e8002b",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating subject. What specifically would you like to learn? Are you looking to review a particular concept, or do you want to start from the basics and work your way up?\n\nHere are some options to get you started:\n\n1. **Basic math concepts**: We can review addition, subtraction, multiplication, and division, or move on to more advanced topics like fractions, decimals, and percentages.\n2. **Algebra**: We can explore equations, graphing, and functions, or dive into more advanced topics like systems of equations and quadratic equations.\n3. **Geometry**: We can learn about points, lines, angles, and shapes, or explore more advanced topics like trigonometry and 3D geometry.\n4. **Calculus**: We can introduce the basics of limits, derivatives, and integrals, or explore more advanced topics like differential equations and multivariable calculus.\n5. **Math topics of your choice**: Is there a specific area of math that interests you, such as statistics, probability, or number theory?\n\nLet me know which direction you'd like to take, and we can get started!",
+      "parent_id": "915e90d7-e01a-44dd-b8a0-d3ef0256ea74",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T08:48:56.351150",
+      "last_accessed": "2024-09-03T08:55:44.952240"
+    },
+    "790261eb-02f9-4a00-9d3b-6f859c3d42b1": {
+      "id": "790261eb-02f9-4a00-9d3b-6f859c3d42b1",
+      "role": "user",
+      "content": "I want to learn comp sci",
+      "parent_id": "d9680ad6-22af-4945-8e2d-f212384a1867",
+      "children_ids": [
+        "75b9d87c-f925-426f-9233-ffcb0ec582c9"
+      ],
+      "prev_edit_id": "915e90d7-e01a-44dd-b8a0-d3ef0256ea74",
+      "next_edit_id": null,
+      "node_created": "2024-09-03T08:49:00.484624",
+      "last_accessed": "2024-09-03T08:55:44.952240"
+    },
+    "75b9d87c-f925-426f-9233-ffcb0ec582c9": {
+      "id": "75b9d87c-f925-426f-9233-ffcb0ec582c9",
+      "role": "assistant",
+      "content": "\n\nComp Sci (Computer Science) is a fascinating field that can lead to many exciting career opportunities.\n\nTo get started, let's break down the basics:\n\n1. **Programming languages**: You'll need to learn at least one programming language, such as Python, Java, C++, or JavaScript. Each language has its own strengths and weaknesses, so it's essential to choose one that interests you.\n2. **Data structures and algorithms**: Understanding how to store and manipulate data, as well as how to write efficient algorithms, is crucial in Comp Sci.\n3. **Computer systems**: You'll need to learn about computer architecture, operating systems, and networking.\n4. **Software engineering**: This involves designing, developing, and testing software applications.\n\nHere are some resources to help you get started:\n\n**Online courses**:\n\n* Codecademy (interactive coding lessons)\n* Coursera (university-level courses)\n* edX (massive open online courses)\n* Udemy (video courses)\n\n**Books**:\n\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Computer Organization and Design\" by David A. Patterson and John L. Hennessy\n* \"Clean Code\" by Robert C. Martin\n\n**Communities**:\n\n* Reddit's r/learnprogramming and r/compsci\n* Stack Overflow (Q&A platform for programmers)\n* GitHub (open-source code repository)\n\n**Tips**:\n\n* Start with the basics and build projects to apply your knowledge.\n* Practice coding regularly to develop problem-solving skills.\n* Join online communities to connect with other programmers and get help when you're stuck.\n\nWhich area of Comp Sci interests you the most?",
+      "parent_id": "790261eb-02f9-4a00-9d3b-6f859c3d42b1",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T08:49:02.463464",
+      "last_accessed": "2024-09-03T08:55:44.952240"
+    }
+  },
+  "created": "2024-09-03T08:48:48.971630",
+  "last_accessed": "2024-09-03T08:55:44.952240"
+}

@@ -1,0 +1,64 @@
+{
+  "chat_id": "5dea1b90-3398-4d0a-9c7b-5ca93c2bce6a",
+  "user_id": "NotTemp",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 4,
+  "root_node_id": "7705f240-b359-49f3-8119-bb2a7853e115",
+  "current_node_id": "6946456e-1d5e-42ed-a620-bf2e4eb655dd",
+  "node_map": {
+    "7705f240-b359-49f3-8119-bb2a7853e115": {
+      "id": "7705f240-b359-49f3-8119-bb2a7853e115",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "f36109b7-d5dd-4807-9922-f39940324d15"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:57:51.043506",
+      "last_accessed": "2024-09-03T01:12:11.723142"
+    },
+    "f36109b7-d5dd-4807-9922-f39940324d15": {
+      "id": "f36109b7-d5dd-4807-9922-f39940324d15",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "7705f240-b359-49f3-8119-bb2a7853e115",
+      "children_ids": [
+        "cc7f04f2-5d5b-4da8-94d3-1439f9024521"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:57:52.295378",
+      "last_accessed": "2024-09-03T01:12:11.723142"
+    },
+    "cc7f04f2-5d5b-4da8-94d3-1439f9024521": {
+      "id": "cc7f04f2-5d5b-4da8-94d3-1439f9024521",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": "f36109b7-d5dd-4807-9922-f39940324d15",
+      "children_ids": [
+        "6946456e-1d5e-42ed-a620-bf2e4eb655dd"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:57:56.794361",
+      "last_accessed": "2024-09-03T01:12:11.723142"
+    },
+    "6946456e-1d5e-42ed-a620-bf2e4eb655dd": {
+      "id": "6946456e-1d5e-42ed-a620-bf2e4eb655dd",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating subject. What specifically would you like to learn? Are you looking to review a particular concept, or do you want to start from the basics and work your way up?\n\nHere are some options to get you started:\n\n1. **Basic math concepts**: We can review addition, subtraction, multiplication, and division, or move on to more advanced topics like fractions, decimals, and percentages.\n2. **Algebra**: We can explore equations, graphing, and functions, or dive into more advanced topics like systems of equations and quadratic equations.\n3. **Geometry**: We can learn about points, lines, angles, and shapes, or explore more advanced topics like trigonometry and 3D geometry.\n4. **Calculus**: We can introduce the basics of limits, derivatives, and integrals, or explore more advanced topics like differential equations and multivariable calculus.\n5. **Math topics of your choice**: Is there a specific area of math that interests you, such as statistics, probability, or number theory?\n\nLet me know which direction you'd like to take, and we can get started!",
+      "parent_id": "cc7f04f2-5d5b-4da8-94d3-1439f9024521",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:57:58.406263",
+      "last_accessed": "2024-09-03T01:12:11.723142"
+    }
+  },
+  "created": "2024-09-02T10:57:51.043506",
+  "last_accessed": "2024-09-03T01:12:11.723142"
+}

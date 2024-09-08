@@ -1,0 +1,62 @@
+{
+  "chat_id": "fa01f992-1f84-4844-b5fe-2b25e55d597d",
+  "user_id": "alice",
+  "name": "Medical Ambitions",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 3,
+  "root_node_id": "0f034a77-5da5-419c-93c0-0addde627dec",
+  "current_node_id": "626058f9-0739-4ca1-8117-bb934db2a1d4",
+  "node_map": {
+    "90897425-5c11-4ce6-ba73-246dff1d0453": {
+      "id": "90897425-5c11-4ce6-ba73-246dff1d0453",
+      "role": "user",
+      "content": "Hello I want to be a doctor",
+      "parent_id": null,
+      "children_ids": [
+        "7cedc505-9098-4afb-8a87-8dea13822f5e"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "0f034a77-5da5-419c-93c0-0addde627dec",
+      "node_created": "2024-09-02T10:28:22.391283",
+      "last_accessed": "2024-09-02T10:28:35.126464"
+    },
+    "7cedc505-9098-4afb-8a87-8dea13822f5e": {
+      "id": "7cedc505-9098-4afb-8a87-8dea13822f5e",
+      "role": "assistant",
+      "content": "\n\nThat's a wonderful goal! Becoming a doctor requires a lot of hard work, dedication, and passion. I'd be happy to help you get started.\n\nTo become a doctor, you'll need to complete the following steps:\n\n1. **Earn a Bachelor's Degree**: Most medical schools require applicants to have a bachelor's degree, typically in a science-related field like biology, chemistry, or physics.\n2. **Take Pre-Med Coursework**: You'll need to take a set of required courses, such as biology, chemistry, organic chemistry, physics, and math.\n3. **Take the Medical College Admission Test (MCAT)**: The MCAT is a standardized exam that tests your knowledge in areas like biology, chemistry, physics, and critical thinking.\n4. **Attend Medical School**: Medical school typically takes four years to complete and includes both classroom instruction and clinical training.\n5. **Complete Clinical Rotations**: During your final two years of medical school, you'll participate in clinical rotations, where you'll work directly with patients and healthcare teams.\n6. **Earn a Medical Degree**: Upon completing medical school, you'll be awarded a medical degree, such as an MD (Doctor of Medicine) or DO (Doctor of Osteopathic Medicine).\n7. **Complete Residency Training**: After medical school, you'll need to complete a residency program, which can last from three to seven years, depending on the specialty.\n8. **Obtain Licensure**: You'll need to obtain a medical license in the state where you plan to practice medicine.\n9. **Pursue Board Certification**: Many doctors choose to pursue board certification in their specialty, which requires passing an exam administered by a professional organization.\n\nIt's a long and challenging journey, but with persistence and hard work, you can achieve your goal of becoming a doctor!\n\nWhat specific area of medicine are you interested in?",
+      "parent_id": "90897425-5c11-4ce6-ba73-246dff1d0453",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:28:24.404469",
+      "last_accessed": "2024-09-02T10:28:35.126464"
+    },
+    "0f034a77-5da5-419c-93c0-0addde627dec": {
+      "id": "0f034a77-5da5-419c-93c0-0addde627dec",
+      "role": "user",
+      "content": "Hello I want to be a dermatologist",
+      "parent_id": null,
+      "children_ids": [
+        "626058f9-0739-4ca1-8117-bb934db2a1d4"
+      ],
+      "prev_edit_id": "90897425-5c11-4ce6-ba73-246dff1d0453",
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:28:31.387069",
+      "last_accessed": "2024-09-02T10:28:35.126464"
+    },
+    "626058f9-0739-4ca1-8117-bb934db2a1d4": {
+      "id": "626058f9-0739-4ca1-8117-bb934db2a1d4",
+      "role": "assistant",
+      "content": "\n\nThat's a great career goal! Being a dermatologist can be a very rewarding profession, helping people to achieve healthy and beautiful skin.\n\nTo become a dermatologist, you'll need to complete a significant amount of education and training. Here's a step-by-step guide to help you get started:\n\n1. **Earn a Bachelor's Degree**: The first step is to earn a bachelor's degree in a science-related field, such as biology, chemistry, or physics. This typically takes four years to complete.\n2. **Take Pre-Med Coursework**: While pursuing your undergraduate degree, make sure to take pre-med coursework, including classes in biology, chemistry, organic chemistry, and physics.\n3. **Take the Medical College Admission Test (MCAT)**: The MCAT is a standardized exam that's required for medical school admission. You'll need to prepare for and take the MCAT during your junior or senior year of college.\n4. **Attend Medical School**: After completing your undergraduate degree and taking the MCAT, you'll need to apply to medical school. Medical school typically takes four years to complete and includes both classroom instruction and clinical training.\n5. **Complete a Dermatology Residency**: After medical school, you'll need to complete a dermatology residency program, which typically lasts three to four years. During this time, you'll work under the supervision of experienced dermatologists to gain hands-on experience in diagnosing and treating skin conditions.\n6. **Obtain Licensure**: After completing your residency, you'll need to obtain a medical license in the state where you plan to practice. This typically involves passing the United States Medical Licensing Examination (USMLE) or the Comprehensive Osteopathic Medical Licensing Examination (COMLEX) series.\n7. **Pursue Additional Training (Optional)**: Some dermatologists may choose to pursue additional training through fellowship programs, which can last one to two years. These programs can provide specialized training in areas such as cosmetic dermatology, pediatric dermatology, or dermatopathology.\n\nIn terms of skills and qualities, dermatologists should have:\n\n* Strong communication and interpersonal skills\n* Attention to detail and ability to diagnose complex skin conditions\n* Ability to work well under pressure and make quick decisions\n* Strong knowledge of skin anatomy and physiology\n* Ability to stay up-to-date with the latest research and treatments in dermatology\n\nIf you're still interested in pursuing a career as a dermatologist, I'd be happy to help you explore this further! What specific aspects of dermatology interest you the most?",
+      "parent_id": "0f034a77-5da5-419c-93c0-0addde627dec",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:28:35.126464",
+      "last_accessed": "2024-09-02T10:28:35.126464"
+    }
+  },
+  "created": "2024-09-02T10:28:22.391283",
+  "last_accessed": "2024-09-02T10:28:35.126464"
+}

@@ -1,0 +1,38 @@
+{
+  "chat_id": "5ef8ecdd-c356-4166-9d76-c9471726a807",
+  "user_id": "Sbarajassd",
+  "name": "Dolphin Info",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 2,
+  "root_node_id": "bb284fb4-f59a-4706-8735-faecf68952fb",
+  "current_node_id": "846ba8fa-1541-4473-bff3-b9509b5593f2",
+  "node_map": {
+    "bb284fb4-f59a-4706-8735-faecf68952fb": {
+      "id": "bb284fb4-f59a-4706-8735-faecf68952fb",
+      "role": "user",
+      "content": "Hey I want to learn about dolphins",
+      "parent_id": null,
+      "children_ids": [
+        "846ba8fa-1541-4473-bff3-b9509b5593f2"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-01T23:41:55.779636",
+      "last_accessed": "2024-09-02T08:47:16.735336"
+    },
+    "846ba8fa-1541-4473-bff3-b9509b5593f2": {
+      "id": "846ba8fa-1541-4473-bff3-b9509b5593f2",
+      "role": "assistant",
+      "content": "\n\nDolphins are fascinating creatures. Here are some interesting facts to get you started:\n\n1. **Intelligence**: Dolphins are highly intelligent animals, known to be one of the smartest species on the planet. They have been observed using tools, solving problems, and even teaching each other new behaviors.\n2. **Social animals**: Dolphins are highly social creatures that live in groups, called pods. These pods can range from a few individuals to hundreds of dolphins.\n3. **Communication**: Dolphins communicate with each other using a variety of clicks, whistles, and body language. They have been observed having their own signature whistles, similar to human names.\n4. **Speed**: Dolphins are incredibly fast swimmers, reaching speeds of up to 25 miles per hour (40 kilometers per hour).\n5. **Diet**: Dolphins are carnivores and feed on a variety of fish, squid, and crustaceans.\n6. **Self-awareness**: Dolphins have been observed showing signs of self-awareness, such as recognizing themselves in mirrors and having a sense of their own identity.\n7. **Emotional intelligence**: Dolphins have been known to exhibit emotions such as joy, playfulness, and even empathy.\n\nSome popular types of dolphins include:\n\n* **Bottlenose dolphins**: The most common species of dolphin, known for their distinctive curved dorsal fin.\n* **Orca (killer whales)**: Actually a type of dolphin, orcas are the largest members of the dolphin family and are known for their distinctive black and white coloring.\n* **Spinner dolphins**: Known for their acrobatic leaps and spins, spinner dolphins are a popular sight in tropical waters.\n\nWould you like to learn more about a specific aspect of dolphins, such as their behavior, habitat, or conservation status?",
+      "parent_id": "bb284fb4-f59a-4706-8735-faecf68952fb",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-01T23:41:57.894812",
+      "last_accessed": "2024-09-02T08:47:16.735336"
+    }
+  },
+  "created": "2024-09-01T23:41:55.779636",
+  "last_accessed": "2024-09-02T08:47:16.735336"
+}

@@ -1,0 +1,62 @@
+{
+  "chat_id": "82b46c2f-0f23-49c7-8739-8e809fef8c77",
+  "user_id": "dsad",
+  "name": "Math Help",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 3,
+  "root_node_id": "88eedf3d-3667-4f3e-a748-f0e27341c0f8",
+  "current_node_id": "88eedf3d-3667-4f3e-a748-f0e27341c0f8",
+  "node_map": {
+    "4ae1ee66-2efa-46ce-9367-fb4090aa7f05": {
+      "id": "4ae1ee66-2efa-46ce-9367-fb4090aa7f05",
+      "role": "user",
+      "content": "hey I want to learn math",
+      "parent_id": null,
+      "children_ids": [
+        "f5f7963d-b3d0-46ef-8597-10ac4dc418ca"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "88eedf3d-3667-4f3e-a748-f0e27341c0f8",
+      "node_created": "2024-09-03T21:19:12.432513",
+      "last_accessed": "2024-09-03T21:24:40.911316"
+    },
+    "f5f7963d-b3d0-46ef-8597-10ac4dc418ca": {
+      "id": "f5f7963d-b3d0-46ef-8597-10ac4dc418ca",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating and rewarding subject. What specifically would you like to learn? Are you looking to:\n\n1. Brush up on basic math concepts (e.g., fractions, algebra, geometry)?\n2. Learn a specific topic, such as calculus, statistics, or trigonometry?\n3. Prepare for a math-related exam or test (e.g., SAT, ACT, GRE)?\n4. Explore a particular area of math, such as number theory, combinatorics, or topology?\n\nLet me know, and I'll do my best to assist you!\n\nAlso, what's your current level of math knowledge? Are you a beginner, intermediate, or advanced learner?",
+      "parent_id": "4ae1ee66-2efa-46ce-9367-fb4090aa7f05",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:19:14.164511",
+      "last_accessed": "2024-09-03T21:24:40.911316"
+    },
+    "88eedf3d-3667-4f3e-a748-f0e27341c0f8": {
+      "id": "88eedf3d-3667-4f3e-a748-f0e27341c0f8",
+      "role": "user",
+      "content": "hey I want to learn comp sci",
+      "parent_id": null,
+      "children_ids": [
+        "18482059-4047-4137-a9af-3d582360ba97"
+      ],
+      "prev_edit_id": "4ae1ee66-2efa-46ce-9367-fb4090aa7f05",
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:19:19.075713",
+      "last_accessed": "2024-09-03T21:24:40.911316"
+    },
+    "18482059-4047-4137-a9af-3d582360ba97": {
+      "id": "18482059-4047-4137-a9af-3d582360ba97",
+      "role": "assistant",
+      "content": "\n\nComp Sci (Computer Science) is an amazing field with endless possibilities. I'd be happy to help you get started.\n\nTo begin, let's break down the basics:\n\n**What do you want to focus on?**\n\n1. **Programming languages**: Do you want to learn a specific language like Python, Java, C++, or JavaScript?\n2. **Web development**: Are you interested in building websites, web applications, or mobile apps?\n3. **Artificial intelligence (AI) and machine learning (ML)**: Do you want to explore AI and ML concepts, such as neural networks, deep learning, or natural language processing?\n4. **Data science**: Are you interested in working with data, including data analysis, visualization, and mining?\n5. **Other areas**: Perhaps you're interested in cybersecurity, computer networks, or game development?\n\n**What's your current level of experience?**\n\n1. **Beginner**: You have little to no experience with programming or computer science concepts.\n2. **Intermediate**: You have some experience with programming or computer science concepts, but you want to deepen your knowledge.\n3. **Advanced**: You have significant experience with programming or computer science concepts, and you want to specialize or explore new areas.\n\nLet me know your answers to these questions, and I'll help you create a personalized learning plan to get you started on your Comp Sci journey!",
+      "parent_id": "88eedf3d-3667-4f3e-a748-f0e27341c0f8",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:19:20.559979",
+      "last_accessed": "2024-09-03T21:24:40.911316"
+    }
+  },
+  "created": "2024-09-03T21:19:12.432513",
+  "last_accessed": "2024-09-03T21:24:40.911316"
+}

@@ -1,0 +1,38 @@
+{
+  "chat_id": "761b078c-534a-4a7f-850f-60b9c702a31b",
+  "user_id": "Sbarajassd",
+  "name": "Coding Basics",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 2,
+  "root_node_id": "8bf9fac9-c7be-406c-a600-bb05b5b747b2",
+  "current_node_id": "c9fb6919-f76d-4445-915b-000d4c9bd62b",
+  "node_map": {
+    "8bf9fac9-c7be-406c-a600-bb05b5b747b2": {
+      "id": "8bf9fac9-c7be-406c-a600-bb05b5b747b2",
+      "role": "user",
+      "content": "teach me to code",
+      "parent_id": null,
+      "children_ids": [
+        "c9fb6919-f76d-4445-915b-000d4c9bd62b"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T02:06:21.574219",
+      "last_accessed": "2024-09-02T08:41:07.931610"
+    },
+    "c9fb6919-f76d-4445-915b-000d4c9bd62b": {
+      "id": "c9fb6919-f76d-4445-915b-000d4c9bd62b",
+      "role": "assistant",
+      "content": "\n\nI'd be happy to help you learn how to code.\n\nTo get started, let's choose a programming language to learn. There are many languages to choose from, but I'll suggest a few popular ones:\n\n1. **Python**: A great language for beginners, easy to read and write, and has a vast number of libraries and resources.\n2. **JavaScript**: A versatile language used for web development, game development, and mobile app development.\n3. **HTML/CSS**: Not a programming language, but essential for building websites and web applications.\n\nWhich one of these languages interests you the most?\n\n(Note: We can always switch to a different language later if you find you prefer it.)\n\nAlso, what's your learning style?\n\n1. **Text-based tutorials**: I'll provide step-by-step instructions and code examples.\n2. **Interactive coding exercises**: We'll work on coding challenges together.\n3. **Video tutorials**: I'll provide links to video tutorials and online courses.\n\nLet me know your preferences, and we'll get started!",
+      "parent_id": "8bf9fac9-c7be-406c-a600-bb05b5b747b2",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T02:06:23.734507",
+      "last_accessed": "2024-09-02T08:41:07.931610"
+    }
+  },
+  "created": "2024-09-02T02:06:21.574219",
+  "last_accessed": "2024-09-02T08:41:07.931610"
+}

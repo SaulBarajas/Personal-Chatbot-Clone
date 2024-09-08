@@ -1,0 +1,112 @@
+{
+  "chat_id": "eed81b08-ea58-4613-8ff8-09cd86b4d9b0",
+  "user_id": "dsa",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 6,
+  "root_node_id": "ee8a93af-3625-4dad-a181-83c9eb2e6578",
+  "current_node_id": "1ce48328-6fc5-4a3a-af37-ca5430ed53c7",
+  "node_map": {
+    "ee8a93af-3625-4dad-a181-83c9eb2e6578": {
+      "id": "ee8a93af-3625-4dad-a181-83c9eb2e6578",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "d4c22b3f-34f4-47a5-af60-28917b382234"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T03:33:53.874520",
+      "last_accessed": "2024-09-06T03:35:03.297247"
+    },
+    "d4c22b3f-34f4-47a5-af60-28917b382234": {
+      "id": "d4c22b3f-34f4-47a5-af60-28917b382234",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "ee8a93af-3625-4dad-a181-83c9eb2e6578",
+      "children_ids": [
+        "e87dd365-3e7e-4d01-824d-641bb6f7049a"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T03:33:55.467157",
+      "last_accessed": "2024-09-06T03:35:03.297247"
+    },
+    "1ce48328-6fc5-4a3a-af37-ca5430ed53c7": {
+      "id": "1ce48328-6fc5-4a3a-af37-ca5430ed53c7",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": "d4c22b3f-34f4-47a5-af60-28917b382234",
+      "children_ids": [
+        "f2826151-49c6-477d-9c6c-5afa6ea28e4e"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "27cb5c32-2a8c-418b-8303-f581bf53e986",
+      "node_created": "2024-09-06T03:34:01.078314",
+      "last_accessed": "2024-09-06T03:35:03.297247"
+    },
+    "f2826151-49c6-477d-9c6c-5afa6ea28e4e": {
+      "id": "f2826151-49c6-477d-9c6c-5afa6ea28e4e",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating subject. What specifically would you like to learn? Are you looking to review a particular concept, or do you want to start from the basics and work your way up?\n\nHere are some options to get you started:\n\n1. **Basic math concepts**: We can review addition, subtraction, multiplication, and division, or move on to more advanced topics like fractions, decimals, and percentages.\n2. **Algebra**: We can explore variables, equations, and functions, and learn how to solve linear and quadratic equations.\n3. **Geometry**: We can discuss points, lines, angles, and shapes, and learn about properties like congruence and similarity.\n4. **Calculus**: We can introduce you to limits, derivatives, and integrals, and explore how they're used in real-world applications.\n5. **Math topics of your choice**: Is there a specific area of math that interests you, such as statistics, probability, or number theory?\n\nLet me know which direction you'd like to take, and we can create a personalized learning plan!",
+      "parent_id": "1ce48328-6fc5-4a3a-af37-ca5430ed53c7",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T03:34:02.283382",
+      "last_accessed": "2024-09-06T03:35:03.297247"
+    },
+    "27cb5c32-2a8c-418b-8303-f581bf53e986": {
+      "id": "27cb5c32-2a8c-418b-8303-f581bf53e986",
+      "role": "user",
+      "content": "I want to learn comp sci",
+      "parent_id": "d4c22b3f-34f4-47a5-af60-28917b382234",
+      "children_ids": [
+        "3d27395b-0f51-432e-9f01-233c4df5a81e"
+      ],
+      "prev_edit_id": "1ce48328-6fc5-4a3a-af37-ca5430ed53c7",
+      "next_edit_id": "e87dd365-3e7e-4d01-824d-641bb6f7049a",
+      "node_created": "2024-09-06T03:34:14.326395",
+      "last_accessed": "2024-09-06T03:35:03.297247"
+    },
+    "3d27395b-0f51-432e-9f01-233c4df5a81e": {
+      "id": "3d27395b-0f51-432e-9f01-233c4df5a81e",
+      "role": "assistant",
+      "content": "\n\nComp Sci (Computer Science) is a fascinating field that can lead to many exciting career opportunities.\n\nTo get started, let's break down the basics:\n\n1. **Programming languages**: You'll need to learn at least one programming language, such as Python, Java, C++, or JavaScript. Each language has its own strengths and weaknesses, so it's essential to choose one that interests you.\n2. **Data structures and algorithms**: Understanding how to store and manipulate data, as well as how to write efficient algorithms, is crucial in Comp Sci.\n3. **Computer systems**: You'll need to learn about computer architecture, operating systems, and networking.\n4. **Software engineering**: This involves designing, developing, and testing software applications.\n\nHere are some resources to help you get started:\n\n**Online courses**:\n\n* Codecademy (interactive coding lessons)\n* Coursera (university-level courses)\n* edX (massive open online courses)\n* Udemy (video courses)\n\n**Books**:\n\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Computer Organization and Design\" by David A. Patterson and John L. Hennessy\n* \"Clean Code\" by Robert C. Martin\n\n**Communities**:\n\n* Reddit's r/learnprogramming and r/compsci\n* Stack Overflow (Q&A platform for programmers)\n* GitHub (open-source code repository)\n\n**Tips**:\n\n* Start with the basics and build projects to apply your knowledge.\n* Practice coding regularly to develop problem-solving skills.\n* Join online communities to connect with other programmers and get help when you're stuck.\n\nWhich area of Comp Sci interests you the most?",
+      "parent_id": "27cb5c32-2a8c-418b-8303-f581bf53e986",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T03:34:15.919192",
+      "last_accessed": "2024-09-06T03:35:03.297247"
+    },
+    "e87dd365-3e7e-4d01-824d-641bb6f7049a": {
+      "id": "e87dd365-3e7e-4d01-824d-641bb6f7049a",
+      "role": "user",
+      "content": "I want to learn physics",
+      "parent_id": "d4c22b3f-34f4-47a5-af60-28917b382234",
+      "children_ids": [
+        "f27ee59c-5acb-4d8c-972d-a64cb953e899"
+      ],
+      "prev_edit_id": "27cb5c32-2a8c-418b-8303-f581bf53e986",
+      "next_edit_id": null,
+      "node_created": "2024-09-06T03:34:54.677312",
+      "last_accessed": "2024-09-06T03:35:03.297247"
+    },
+    "f27ee59c-5acb-4d8c-972d-a64cb953e899": {
+      "id": "f27ee59c-5acb-4d8c-972d-a64cb953e899",
+      "role": "assistant",
+      "content": "\n\nPhysics is a fascinating subject that can help you understand the world around you.\n\nWhere would you like to start? Do you have a specific area of physics that interests you, such as:\n\n1. Mechanics (motion, forces, energy)\n2. Electricity and Magnetism\n3. Thermodynamics (heat, temperature)\n4. Optics (light, vision)\n5. Quantum Mechanics (the behavior of tiny particles)\n6. Relativity (space, time, gravity)\n\nOr would you like to start with the basics and work your way up?\n\nI can also suggest some resources to help you learn physics, such as:\n\n* Online courses (e.g. Khan Academy, Coursera, edX)\n* Textbooks (e.g. \"Physics for Scientists and Engineers\" by Serway and Jewett)\n* YouTube channels (e.g. 3Blue1Brown, Physics Girl)\n* Practice problems and quizzes\n\nLet me know how I can assist you in your physics journey!",
+      "parent_id": "e87dd365-3e7e-4d01-824d-641bb6f7049a",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T03:34:55.685426",
+      "last_accessed": "2024-09-06T03:35:03.297247"
+    }
+  },
+  "created": "2024-09-06T03:33:53.874520",
+  "last_accessed": "2024-09-06T03:35:03.297247"
+}

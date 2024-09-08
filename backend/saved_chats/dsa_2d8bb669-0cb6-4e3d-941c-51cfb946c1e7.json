@@ -1,0 +1,112 @@
+{
+  "chat_id": "2d8bb669-0cb6-4e3d-941c-51cfb946c1e7",
+  "user_id": "dsa",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 6,
+  "root_node_id": "c241cd70-a109-4f27-b06c-8fa076a52f7a",
+  "current_node_id": "53cb414a-a68f-4d1e-87d7-b422bf20deda",
+  "node_map": {
+    "c241cd70-a109-4f27-b06c-8fa076a52f7a": {
+      "id": "c241cd70-a109-4f27-b06c-8fa076a52f7a",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "8078ab63-3fb4-468d-b955-e33a7ef580f4"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T09:04:46.920824",
+      "last_accessed": "2024-09-06T05:14:20.840737"
+    },
+    "8078ab63-3fb4-468d-b955-e33a7ef580f4": {
+      "id": "8078ab63-3fb4-468d-b955-e33a7ef580f4",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "c241cd70-a109-4f27-b06c-8fa076a52f7a",
+      "children_ids": [
+        "1d5d51a3-1e2c-4b08-80c1-caf24023b764"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T09:04:48.024876",
+      "last_accessed": "2024-09-06T05:14:20.840737"
+    },
+    "53cb414a-a68f-4d1e-87d7-b422bf20deda": {
+      "id": "53cb414a-a68f-4d1e-87d7-b422bf20deda",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": "8078ab63-3fb4-468d-b955-e33a7ef580f4",
+      "children_ids": [
+        "c9736f21-a1fc-4e65-ac3f-0dea31e69147"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "59078521-0ccc-4303-b8ff-247396e8a0ac",
+      "node_created": "2024-09-06T05:13:58.030659",
+      "last_accessed": "2024-09-06T05:14:20.840737"
+    },
+    "c9736f21-a1fc-4e65-ac3f-0dea31e69147": {
+      "id": "c9736f21-a1fc-4e65-ac3f-0dea31e69147",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating subject. What specifically would you like to learn? Are you looking to review a particular concept, or do you want to start from the basics and work your way up?\n\nHere are some options to get you started:\n\n1. **Basic math concepts**: We can review addition, subtraction, multiplication, and division, or move on to more advanced topics like fractions, decimals, and percentages.\n2. **Algebra**: We can explore equations, graphing, and functions, or dive into more advanced topics like systems of equations and quadratic equations.\n3. **Geometry**: We can learn about points, lines, angles, and shapes, or explore more advanced topics like trigonometry and 3D geometry.\n4. **Calculus**: We can introduce the basics of limits, derivatives, and integrals, or explore more advanced topics like differential equations and multivariable calculus.\n5. **Math topics of your choice**: Is there a specific area of math that interests you, such as statistics, probability, or number theory?\n\nLet me know which direction you'd like to take, and we can get started!",
+      "parent_id": "53cb414a-a68f-4d1e-87d7-b422bf20deda",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:14:00.181739",
+      "last_accessed": "2024-09-06T05:14:20.840737"
+    },
+    "59078521-0ccc-4303-b8ff-247396e8a0ac": {
+      "id": "59078521-0ccc-4303-b8ff-247396e8a0ac",
+      "role": "user",
+      "content": "I want to learn maths\n",
+      "parent_id": "8078ab63-3fb4-468d-b955-e33a7ef580f4",
+      "children_ids": [
+        "a3dc3d0c-beae-4b4c-bc4e-81fcc4e523b2"
+      ],
+      "prev_edit_id": "53cb414a-a68f-4d1e-87d7-b422bf20deda",
+      "next_edit_id": "1d5d51a3-1e2c-4b08-80c1-caf24023b764",
+      "node_created": "2024-09-06T05:14:03.083854",
+      "last_accessed": "2024-09-06T05:14:20.840737"
+    },
+    "a3dc3d0c-beae-4b4c-bc4e-81fcc4e523b2": {
+      "id": "a3dc3d0c-beae-4b4c-bc4e-81fcc4e523b2",
+      "role": "assistant",
+      "content": "\n\nMaths can be a fascinating subject. What specific area of maths would you like to learn about? Would you like to start with the basics, such as fractions, decimals, or algebra, or move on to more advanced topics like geometry, trigonometry, or calculus?\n\nAlso, what's your current level of maths knowledge? Are you a complete beginner or do you have some experience with maths already?\n\nLet me know and I'll be happy to help you get started!",
+      "parent_id": "59078521-0ccc-4303-b8ff-247396e8a0ac",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:14:03.836393",
+      "last_accessed": "2024-09-06T05:14:20.840737"
+    },
+    "1d5d51a3-1e2c-4b08-80c1-caf24023b764": {
+      "id": "1d5d51a3-1e2c-4b08-80c1-caf24023b764",
+      "role": "user",
+      "content": "I want to learn maths and theory\n",
+      "parent_id": "8078ab63-3fb4-468d-b955-e33a7ef580f4",
+      "children_ids": [
+        "9d3465a4-fe41-4e35-a006-29d6accd6823"
+      ],
+      "prev_edit_id": "59078521-0ccc-4303-b8ff-247396e8a0ac",
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:14:14.069656",
+      "last_accessed": "2024-09-06T05:14:20.840737"
+    },
+    "9d3465a4-fe41-4e35-a006-29d6accd6823": {
+      "id": "9d3465a4-fe41-4e35-a006-29d6accd6823",
+      "role": "assistant",
+      "content": "\n\nMaths and theory can be fascinating topics.\n\nTo get started, could you please tell me what specific areas of maths and theory you're interested in learning? For example, are you interested in:\n\n1. Algebra (e.g., group theory, ring theory)?\n2. Geometry (e.g., Euclidean geometry, topology)?\n3. Calculus (e.g., differential equations, real analysis)?\n4. Number theory (e.g., prime numbers, modular arithmetic)?\n5. Probability and statistics?\n6. Something else (please specify)?\n\nAlso, what's your current level of maths knowledge? Are you a beginner, or do you have some background in maths already?\n\nLet me know, and I'll do my best to help you get started!",
+      "parent_id": "1d5d51a3-1e2c-4b08-80c1-caf24023b764",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:14:15.075602",
+      "last_accessed": "2024-09-06T05:14:20.840737"
+    }
+  },
+  "created": "2024-09-04T09:04:46.920824",
+  "last_accessed": "2024-09-06T05:14:20.840737"
+}

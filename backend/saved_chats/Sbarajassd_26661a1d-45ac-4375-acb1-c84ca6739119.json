@@ -1,0 +1,38 @@
+{
+  "chat_id": "26661a1d-45ac-4375-acb1-c84ca6739119",
+  "user_id": "Sbarajassd",
+  "name": "Appreciation Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 2,
+  "root_node_id": "e2717cd4-468a-4bdc-9fed-8b332b55fec3",
+  "current_node_id": "a4fc272e-dd29-43f1-815f-d6077b0487d7",
+  "node_map": {
+    "e2717cd4-468a-4bdc-9fed-8b332b55fec3": {
+      "id": "e2717cd4-468a-4bdc-9fed-8b332b55fec3",
+      "role": "user",
+      "content": "thanks for all the help",
+      "parent_id": null,
+      "children_ids": [
+        "a4fc272e-dd29-43f1-815f-d6077b0487d7"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T06:35:06.400470",
+      "last_accessed": "2024-09-02T08:41:13.525300"
+    },
+    "a4fc272e-dd29-43f1-815f-d6077b0487d7": {
+      "id": "a4fc272e-dd29-43f1-815f-d6077b0487d7",
+      "role": "assistant",
+      "content": "\n\nIt was my pleasure to assist you. If you need help with anything else, feel free to ask!",
+      "parent_id": "e2717cd4-468a-4bdc-9fed-8b332b55fec3",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T06:35:07.394626",
+      "last_accessed": "2024-09-02T08:41:13.525300"
+    }
+  },
+  "created": "2024-09-02T06:35:06.400470",
+  "last_accessed": "2024-09-02T08:41:13.525300"
+}

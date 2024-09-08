@@ -1,0 +1,38 @@
+{
+  "chat_id": "b7d0e01f-660e-4db6-b92a-38e911764bb4",
+  "user_id": "Sbarajassd",
+  "name": "Math Help",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 2,
+  "root_node_id": "36868988-4083-4db3-b351-26d7f7ddbe38",
+  "current_node_id": "4af883b7-59fe-4d12-a4c8-97dccf1b3b0f",
+  "node_map": {
+    "36868988-4083-4db3-b351-26d7f7ddbe38": {
+      "id": "36868988-4083-4db3-b351-26d7f7ddbe38",
+      "role": "user",
+      "content": "hey I want to learn math",
+      "parent_id": null,
+      "children_ids": [
+        "4af883b7-59fe-4d12-a4c8-97dccf1b3b0f"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-01T23:41:36.100410",
+      "last_accessed": "2024-09-02T08:41:09.120245"
+    },
+    "4af883b7-59fe-4d12-a4c8-97dccf1b3b0f": {
+      "id": "4af883b7-59fe-4d12-a4c8-97dccf1b3b0f",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating and rewarding subject. What specifically would you like to learn? Are you looking to:\n\n1. Brush up on basic math concepts (e.g., fractions, algebra, geometry)?\n2. Learn a specific topic, such as calculus, statistics, or trigonometry?\n3. Prepare for a math-related exam or test (e.g., SAT, ACT, GRE)?\n4. Explore a particular area of math, such as number theory, combinatorics, or topology?\n\nLet me know, and I'll do my best to assist you!\n\nAlso, what's your current level of math knowledge? Are you a beginner, intermediate, or advanced learner?",
+      "parent_id": "36868988-4083-4db3-b351-26d7f7ddbe38",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-01T23:41:37.596503",
+      "last_accessed": "2024-09-02T08:41:09.120245"
+    }
+  },
+  "created": "2024-09-01T23:41:36.100410",
+  "last_accessed": "2024-09-02T08:41:09.120245"
+}

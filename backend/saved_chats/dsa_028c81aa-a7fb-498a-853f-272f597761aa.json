@@ -1,0 +1,136 @@
+{
+  "chat_id": "028c81aa-a7fb-498a-853f-272f597761aa",
+  "user_id": "dsa",
+  "name": "Hello",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 7,
+  "root_node_id": "51950afb-510f-44a6-a990-5e3add47be89",
+  "current_node_id": "c3300e23-a057-4892-bebf-0b1ef21442f6",
+  "node_map": {
+    "35dae2cf-ac65-439e-8010-0b52d71f7848": {
+      "id": "35dae2cf-ac65-439e-8010-0b52d71f7848",
+      "role": "user",
+      "content": "heyh",
+      "parent_id": null,
+      "children_ids": [
+        "96bcad25-358c-4147-b9ed-09e5d7a27daa"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "51950afb-510f-44a6-a990-5e3add47be89",
+      "node_created": "2024-09-06T05:12:22.286549",
+      "last_accessed": "2024-09-06T05:13:10.755722"
+    },
+    "96bcad25-358c-4147-b9ed-09e5d7a27daa": {
+      "id": "96bcad25-358c-4147-b9ed-09e5d7a27daa",
+      "role": "assistant",
+      "content": "\n\nIt looks like you might have accidentally typed \"heyh\" instead of \"hello\". Is there something I can help you with today?",
+      "parent_id": "35dae2cf-ac65-439e-8010-0b52d71f7848",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:12:23.303872",
+      "last_accessed": "2024-09-06T05:13:10.755722"
+    },
+    "090b1121-004d-430e-a74f-a9bc75e3ebcd": {
+      "id": "090b1121-004d-430e-a74f-a9bc75e3ebcd",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "f35bc275-f418-4ee2-b9cc-7f7f5b86ae39"
+      ],
+      "prev_edit_id": "51950afb-510f-44a6-a990-5e3add47be89",
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:12:26.325727",
+      "last_accessed": "2024-09-06T05:13:10.755722"
+    },
+    "f35bc275-f418-4ee2-b9cc-7f7f5b86ae39": {
+      "id": "f35bc275-f418-4ee2-b9cc-7f7f5b86ae39",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "090b1121-004d-430e-a74f-a9bc75e3ebcd",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:12:26.713729",
+      "last_accessed": "2024-09-06T05:13:10.755722"
+    },
+    "51950afb-510f-44a6-a990-5e3add47be89": {
+      "id": "51950afb-510f-44a6-a990-5e3add47be89",
+      "role": "user",
+      "content": "hey bob",
+      "parent_id": null,
+      "children_ids": [
+        "f689c67f-4a8c-44ab-83b7-357831fdf924"
+      ],
+      "prev_edit_id": "35dae2cf-ac65-439e-8010-0b52d71f7848",
+      "next_edit_id": "090b1121-004d-430e-a74f-a9bc75e3ebcd",
+      "node_created": "2024-09-06T05:12:31.865491",
+      "last_accessed": "2024-09-06T05:13:10.755722"
+    },
+    "f689c67f-4a8c-44ab-83b7-357831fdf924": {
+      "id": "f689c67f-4a8c-44ab-83b7-357831fdf924",
+      "role": "assistant",
+      "content": "\n\nWhat's up? How can I help you today?",
+      "parent_id": "51950afb-510f-44a6-a990-5e3add47be89",
+      "children_ids": [
+        "b98d70d6-aa47-42df-b4a0-cb246a630da9"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:12:32.915804",
+      "last_accessed": "2024-09-06T05:13:10.755722"
+    },
+    "c3300e23-a057-4892-bebf-0b1ef21442f6": {
+      "id": "c3300e23-a057-4892-bebf-0b1ef21442f6",
+      "role": "user",
+      "content": "I want to learn",
+      "parent_id": "f689c67f-4a8c-44ab-83b7-357831fdf924",
+      "children_ids": [
+        "a562472c-ae06-4d16-8a19-ffc788c8ebcb"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "b98d70d6-aa47-42df-b4a0-cb246a630da9",
+      "node_created": "2024-09-06T05:12:58.047060",
+      "last_accessed": "2024-09-06T05:13:10.755722"
+    },
+    "a562472c-ae06-4d16-8a19-ffc788c8ebcb": {
+      "id": "a562472c-ae06-4d16-8a19-ffc788c8ebcb",
+      "role": "assistant",
+      "content": "\n\nThere are so many things you can learn. What are you interested in? Would you like to learn about a specific topic, like a new language, a hobby, or a subject like science or history? Or are you looking for something more general, like productivity or time management? Let me know and I can help you get started!",
+      "parent_id": "c3300e23-a057-4892-bebf-0b1ef21442f6",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:12:58.629442",
+      "last_accessed": "2024-09-06T05:13:10.755722"
+    },
+    "b98d70d6-aa47-42df-b4a0-cb246a630da9": {
+      "id": "b98d70d6-aa47-42df-b4a0-cb246a630da9",
+      "role": "user",
+      "content": "I want to learn math\n",
+      "parent_id": "f689c67f-4a8c-44ab-83b7-357831fdf924",
+      "children_ids": [
+        "633b2aaa-b556-4ddf-9a90-bd61487b0167"
+      ],
+      "prev_edit_id": "c3300e23-a057-4892-bebf-0b1ef21442f6",
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:13:02.611109",
+      "last_accessed": "2024-09-06T05:13:10.755722"
+    },
+    "633b2aaa-b556-4ddf-9a90-bd61487b0167": {
+      "id": "633b2aaa-b556-4ddf-9a90-bd61487b0167",
+      "role": "assistant",
+      "content": "\n\nMath can be a bit challenging, but with the right approach, it can be fun and rewarding.\n\nWhat specific area of math are you interested in learning? Do you want to start with the basics, such as fractions, decimals, and algebra, or do you want to dive into something more advanced like calculus, geometry, or statistics?\n\nAlso, what's your current level of math knowledge? Are you a complete beginner, or do you have some experience with math already?\n\nLet me know, and I'll do my best to help you get started!",
+      "parent_id": "b98d70d6-aa47-42df-b4a0-cb246a630da9",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:13:03.393267",
+      "last_accessed": "2024-09-06T05:13:10.755722"
+    }
+  },
+  "created": "2024-09-06T05:12:22.286549",
+  "last_accessed": "2024-09-06T05:13:10.755722"
+}

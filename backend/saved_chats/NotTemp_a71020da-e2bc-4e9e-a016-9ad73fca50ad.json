@@ -1,0 +1,64 @@
+{
+  "chat_id": "a71020da-e2bc-4e9e-a016-9ad73fca50ad",
+  "user_id": "NotTemp",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 4,
+  "root_node_id": "d4dab7f8-6b00-4079-9765-1b2fcaf33ab8",
+  "current_node_id": "af744f07-dc47-4cd2-afed-3cc421a80671",
+  "node_map": {
+    "d4dab7f8-6b00-4079-9765-1b2fcaf33ab8": {
+      "id": "d4dab7f8-6b00-4079-9765-1b2fcaf33ab8",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "5f22f235-777f-457f-a88e-fc4a7189b4bc"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:49:32.211320",
+      "last_accessed": "2024-09-02T10:57:45.722001"
+    },
+    "5f22f235-777f-457f-a88e-fc4a7189b4bc": {
+      "id": "5f22f235-777f-457f-a88e-fc4a7189b4bc",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "d4dab7f8-6b00-4079-9765-1b2fcaf33ab8",
+      "children_ids": [
+        "5ada44dc-458c-4707-9b97-04193f39438c"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:49:33.342603",
+      "last_accessed": "2024-09-02T10:57:45.722001"
+    },
+    "5ada44dc-458c-4707-9b97-04193f39438c": {
+      "id": "5ada44dc-458c-4707-9b97-04193f39438c",
+      "role": "user",
+      "content": "I like math",
+      "parent_id": "5f22f235-777f-457f-a88e-fc4a7189b4bc",
+      "children_ids": [
+        "af744f07-dc47-4cd2-afed-3cc421a80671"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:49:39.723525",
+      "last_accessed": "2024-09-02T10:57:45.722001"
+    },
+    "af744f07-dc47-4cd2-afed-3cc421a80671": {
+      "id": "af744f07-dc47-4cd2-afed-3cc421a80671",
+      "role": "assistant",
+      "content": "\n\nMath can be really fun and rewarding. What kind of math are you into? Algebra, geometry, calculus, or something else? Or are you looking for help with a specific problem or concept?",
+      "parent_id": "5ada44dc-458c-4707-9b97-04193f39438c",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:49:40.317739",
+      "last_accessed": "2024-09-02T10:57:45.722001"
+    }
+  },
+  "created": "2024-09-02T10:49:32.211320",
+  "last_accessed": "2024-09-02T10:57:45.722001"
+}

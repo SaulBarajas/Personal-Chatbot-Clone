@@ -1,0 +1,38 @@
+{
+  "chat_id": "054479c5-282e-49d9-84e5-e360e2bbf160",
+  "user_id": "Sbarajassd",
+  "name": "Valorant Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 2,
+  "root_node_id": "16834583-10ee-4226-9fca-25323d2539fa",
+  "current_node_id": "13891d32-9346-447b-9d67-61a40fef84bc",
+  "node_map": {
+    "16834583-10ee-4226-9fca-25323d2539fa": {
+      "id": "16834583-10ee-4226-9fca-25323d2539fa",
+      "role": "user",
+      "content": "Do you know about valorant?",
+      "parent_id": null,
+      "children_ids": [
+        "13891d32-9346-447b-9d67-61a40fef84bc"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T06:55:04.643669",
+      "last_accessed": "2024-09-02T06:55:44.873398"
+    },
+    "13891d32-9346-447b-9d67-61a40fef84bc": {
+      "id": "13891d32-9346-447b-9d67-61a40fef84bc",
+      "role": "assistant",
+      "content": "\n\nI'm familiar with Valorant. Valorant is a free-to-play, multiplayer first-person shooter (FPS) game developed by Riot Games, the same company behind League of Legends. It was released in June 2020 for PC and has since become a popular esports game.\n\nIn Valorant, players are divided into two teams: Attackers and Defenders. The Attackers must plant a bomb (called a \"Spike\") at one of several designated sites on the map, while the Defenders must prevent them from doing so or defuse the Spike if it's already been planted.\n\nPlayers can choose from a variety of agents, each with unique abilities and playstyles. There are currently 18 agents in the game, with new ones being added regularly. Some popular agents include Phoenix, Jett, and Sova.\n\nValorant has a strong focus on competitive play, with a ranked system and regular tournaments. It's also known for its high level of skill ceiling, requiring players to have good aim, movement, and game sense.\n\nAre you a Valorant player? Do you have any specific questions about the game?",
+      "parent_id": "16834583-10ee-4226-9fca-25323d2539fa",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T06:55:06.172380",
+      "last_accessed": "2024-09-02T06:55:44.873398"
+    }
+  },
+  "created": "2024-09-02T06:55:04.643669",
+  "last_accessed": "2024-09-02T06:55:44.873398"
+}

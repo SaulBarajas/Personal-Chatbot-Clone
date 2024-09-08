@@ -1,0 +1,162 @@
+{
+  "chat_id": "11441226-f114-4da2-b65f-0991ea40d31c",
+  "user_id": "dsa",
+  "name": "Hey Bob How is it going",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 9,
+  "root_node_id": "5fc6911b-5c69-426b-9796-77100ab07156",
+  "current_node_id": "7afb9622-f40c-4a0c-99b7-c15b0a0e92ed",
+  "node_map": {
+    "3276d58d-1d47-4fde-9d4a-bf237081e9cd": {
+      "id": "3276d58d-1d47-4fde-9d4a-bf237081e9cd",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "692c675c-3bc3-44f7-956b-1a59c7edd431"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "5fc6911b-5c69-426b-9796-77100ab07156",
+      "node_created": "2024-09-04T01:27:33.181890",
+      "last_accessed": "2024-09-06T05:47:02.201174"
+    },
+    "692c675c-3bc3-44f7-956b-1a59c7edd431": {
+      "id": "692c675c-3bc3-44f7-956b-1a59c7edd431",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "3276d58d-1d47-4fde-9d4a-bf237081e9cd",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T01:27:34.285962",
+      "last_accessed": "2024-09-06T05:47:02.201174"
+    },
+    "5fc6911b-5c69-426b-9796-77100ab07156": {
+      "id": "5fc6911b-5c69-426b-9796-77100ab07156",
+      "role": "user",
+      "content": "hey bob",
+      "parent_id": null,
+      "children_ids": [
+        "1bbc7459-b085-4b6b-8b46-4c3b890e0386"
+      ],
+      "prev_edit_id": "3276d58d-1d47-4fde-9d4a-bf237081e9cd",
+      "next_edit_id": null,
+      "node_created": "2024-09-04T01:30:41.398075",
+      "last_accessed": "2024-09-06T05:47:02.201174"
+    },
+    "1bbc7459-b085-4b6b-8b46-4c3b890e0386": {
+      "id": "1bbc7459-b085-4b6b-8b46-4c3b890e0386",
+      "role": "assistant",
+      "content": "Hello! I'm not Bob, though - I'm your helpful assistant. How can I assist you today?",
+      "parent_id": "5fc6911b-5c69-426b-9796-77100ab07156",
+      "children_ids": [
+        "eecf32f2-9562-471b-ba95-b24fc88b9e2f"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T01:30:42.688776",
+      "last_accessed": "2024-09-06T05:47:02.201174"
+    },
+    "7afb9622-f40c-4a0c-99b7-c15b0a0e92ed": {
+      "id": "7afb9622-f40c-4a0c-99b7-c15b0a0e92ed",
+      "role": "user",
+      "content": "hey",
+      "parent_id": "1bbc7459-b085-4b6b-8b46-4c3b890e0386",
+      "children_ids": [
+        "9a64ebb9-fa35-42e3-8542-dc76257c6dd4"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "8b64418d-915b-4cbe-abe3-ca6fb9b14c66",
+      "node_created": "2024-09-04T01:31:16.408679",
+      "last_accessed": "2024-09-06T05:47:02.201174"
+    },
+    "9a64ebb9-fa35-42e3-8542-dc76257c6dd4": {
+      "id": "9a64ebb9-fa35-42e3-8542-dc76257c6dd4",
+      "role": "assistant",
+      "content": "How's it going? Is there something on your mind that you'd like to chat about, or do you need help with something specific? I'm all ears!",
+      "parent_id": "7afb9622-f40c-4a0c-99b7-c15b0a0e92ed",
+      "children_ids": [
+        "53ae5711-90a0-4feb-9a42-289ef4cfaad2"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T01:31:18.133860",
+      "last_accessed": "2024-09-06T05:47:02.201174"
+    },
+    "53ae5711-90a0-4feb-9a42-289ef4cfaad2": {
+      "id": "53ae5711-90a0-4feb-9a42-289ef4cfaad2",
+      "role": "user",
+      "content": "thanks",
+      "parent_id": "9a64ebb9-fa35-42e3-8542-dc76257c6dd4",
+      "children_ids": [
+        "1a8ee595-43bb-40d1-97de-118bfb0231a6"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T09:46:15.548951",
+      "last_accessed": "2024-09-06T05:47:02.201174"
+    },
+    "1a8ee595-43bb-40d1-97de-118bfb0231a6": {
+      "id": "1a8ee595-43bb-40d1-97de-118bfb0231a6",
+      "role": "assistant",
+      "content": "\n\nNo need to thank me, I'm here to help. Is there something I can help you with, or do you just want to chat?",
+      "parent_id": "53ae5711-90a0-4feb-9a42-289ef4cfaad2",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T09:46:16.248114",
+      "last_accessed": "2024-09-06T05:47:02.201174"
+    },
+    "eecf32f2-9562-471b-ba95-b24fc88b9e2f": {
+      "id": "eecf32f2-9562-471b-ba95-b24fc88b9e2f",
+      "role": "user",
+      "content": "hey bob",
+      "parent_id": "1bbc7459-b085-4b6b-8b46-4c3b890e0386",
+      "children_ids": [
+        "89336262-a70e-4d09-a34e-858263f6b411"
+      ],
+      "prev_edit_id": "8b64418d-915b-4cbe-abe3-ca6fb9b14c66",
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:46:43.661860",
+      "last_accessed": "2024-09-06T05:47:02.201174"
+    },
+    "89336262-a70e-4d09-a34e-858263f6b411": {
+      "id": "89336262-a70e-4d09-a34e-858263f6b411",
+      "role": "assistant",
+      "content": "\n\nI think we've already established that I'm not Bob, but I'm happy to chat with you! What's on your mind? Want to talk about something in particular or just shoot the breeze?",
+      "parent_id": "eecf32f2-9562-471b-ba95-b24fc88b9e2f",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:46:44.310591",
+      "last_accessed": "2024-09-06T05:47:02.201174"
+    },
+    "8b64418d-915b-4cbe-abe3-ca6fb9b14c66": {
+      "id": "8b64418d-915b-4cbe-abe3-ca6fb9b14c66",
+      "role": "user",
+      "content": "hey steve",
+      "parent_id": "1bbc7459-b085-4b6b-8b46-4c3b890e0386",
+      "children_ids": [
+        "045966fa-b635-46cf-99c6-e5196428e447"
+      ],
+      "prev_edit_id": "7afb9622-f40c-4a0c-99b7-c15b0a0e92ed",
+      "next_edit_id": "eecf32f2-9562-471b-ba95-b24fc88b9e2f",
+      "node_created": "2024-09-06T05:46:56.100465",
+      "last_accessed": "2024-09-06T05:47:02.201174"
+    },
+    "045966fa-b635-46cf-99c6-e5196428e447": {
+      "id": "045966fa-b635-46cf-99c6-e5196428e447",
+      "role": "assistant",
+      "content": "\n\nNot Steve either! I'm still here to help, though. What's on your mind? Do you need help with something or just want to chat?",
+      "parent_id": "8b64418d-915b-4cbe-abe3-ca6fb9b14c66",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-06T05:46:56.659967",
+      "last_accessed": "2024-09-06T05:47:02.201174"
+    }
+  },
+  "created": "2024-09-04T01:27:33.181890",
+  "last_accessed": "2024-09-06T05:47:02.201174"
+}

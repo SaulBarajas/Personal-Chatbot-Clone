@@ -1,0 +1,92 @@
+{
+  "chat_id": "bd8b9d0d-52b5-4c80-9e08-67e8825c29de",
+  "user_id": "fas",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 5,
+  "root_node_id": "807765fa-ab16-4f6d-93ec-ec2d37a5aca6",
+  "current_node_id": "d0f56788-0f6f-4b4b-b664-cca00fd2de11",
+  "node_map": {
+    "807765fa-ab16-4f6d-93ec-ec2d37a5aca6": {
+      "id": "807765fa-ab16-4f6d-93ec-ec2d37a5aca6",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "09c1f128-3d1f-45ea-b92e-34fc90b0f8a4"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T10:43:10.193004",
+      "last_accessed": "2024-09-03T11:37:05.237414"
+    },
+    "09c1f128-3d1f-45ea-b92e-34fc90b0f8a4": {
+      "id": "09c1f128-3d1f-45ea-b92e-34fc90b0f8a4",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "807765fa-ab16-4f6d-93ec-ec2d37a5aca6",
+      "children_ids": [
+        "d0f56788-0f6f-4b4b-b664-cca00fd2de11",
+        "d0f56788-0f6f-4b4b-b664-cca00fd2de11",
+        "d0f56788-0f6f-4b4b-b664-cca00fd2de11",
+        "d0f56788-0f6f-4b4b-b664-cca00fd2de11",
+        "d0f56788-0f6f-4b4b-b664-cca00fd2de11"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T10:43:11.117093",
+      "last_accessed": "2024-09-03T11:37:05.237414"
+    },
+    "8b8ec47b-d581-4616-b979-444d8ee75e97": {
+      "id": "8b8ec47b-d581-4616-b979-444d8ee75e97",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": "09c1f128-3d1f-45ea-b92e-34fc90b0f8a4",
+      "children_ids": [
+        "b6d816d6-a851-489e-951b-2a58df38e3db"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "d0f56788-0f6f-4b4b-b664-cca00fd2de11",
+      "node_created": "2024-09-03T10:43:14.401426",
+      "last_accessed": "2024-09-03T11:37:05.237414"
+    },
+    "b6d816d6-a851-489e-951b-2a58df38e3db": {
+      "id": "b6d816d6-a851-489e-951b-2a58df38e3db",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating subject. What specifically would you like to learn? Are you looking to review a particular concept, or do you want to start from the basics and work your way up?\n\nHere are some options to get you started:\n\n1. **Basic math concepts**: We can review addition, subtraction, multiplication, and division, or move on to more advanced topics like fractions, decimals, and percentages.\n2. **Algebra**: We can explore equations, graphing, and functions, or dive into more advanced topics like systems of equations and quadratic equations.\n3. **Geometry**: We can learn about points, lines, angles, and shapes, or explore more advanced topics like trigonometry and 3D geometry.\n4. **Calculus**: We can introduce the basics of limits, derivatives, and integrals, or explore more advanced topics like differential equations and multivariable calculus.\n5. **Math topics of your choice**: Is there a specific area of math that interests you, such as statistics, probability, or number theory?\n\nLet me know which direction you'd like to take, and we can get started!",
+      "parent_id": "8b8ec47b-d581-4616-b979-444d8ee75e97",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T10:43:15.445269",
+      "last_accessed": "2024-09-03T11:37:05.237414"
+    },
+    "d0f56788-0f6f-4b4b-b664-cca00fd2de11": {
+      "id": "d0f56788-0f6f-4b4b-b664-cca00fd2de11",
+      "role": "user",
+      "content": "I want to learn com0p",
+      "parent_id": "09c1f128-3d1f-45ea-b92e-34fc90b0f8a4",
+      "children_ids": [
+        "0afc5562-0207-43e6-9612-5aaf0f356859"
+      ],
+      "prev_edit_id": "8b8ec47b-d581-4616-b979-444d8ee75e97",
+      "next_edit_id": null,
+      "node_created": "2024-09-03T10:43:19.554594",
+      "last_accessed": "2024-09-03T11:37:05.237414"
+    },
+    "0afc5562-0207-43e6-9612-5aaf0f356859": {
+      "id": "0afc5562-0207-43e6-9612-5aaf0f356859",
+      "role": "assistant",
+      "content": "\n\nYou want to learn about computer programming!\n\nCOMPOUND is not a programming language, but I'm assuming you meant to type \"COMPOUND\" or perhaps \"COMPUTER PROGRAMMING\" or a specific programming language like \"COMPOUND\" is not a language but \"COMPOUND\" is a term used in some programming languages like Python.\n\nHowever, if you meant to type \"COMPOUND\" as in a term used in programming, I can help you with that.\n\nIf you meant to type a different programming language, please let me know and I'll do my best to assist you.\n\nHere are a few popular programming languages you might be interested in:\n\n1. Python\n2. Java\n3. JavaScript\n4. C++\n5. C#\n\nWhich one would you like to learn about?",
+      "parent_id": "d0f56788-0f6f-4b4b-b664-cca00fd2de11",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T10:43:20.292380",
+      "last_accessed": "2024-09-03T11:37:05.237414"
+    }
+  },
+  "created": "2024-09-03T10:43:10.193004",
+  "last_accessed": "2024-09-03T11:37:05.237414"
+}

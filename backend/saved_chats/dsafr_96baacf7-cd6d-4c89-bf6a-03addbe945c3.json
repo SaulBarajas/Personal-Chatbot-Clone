@@ -1,0 +1,110 @@
+{
+  "chat_id": "96baacf7-cd6d-4c89-bf6a-03addbe945c3",
+  "user_id": "dsafr",
+  "name": "Math Help",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 5,
+  "root_node_id": "44b5208d-0df7-44df-858b-ff6274ea5125",
+  "current_node_id": "44b5208d-0df7-44df-858b-ff6274ea5125",
+  "node_map": {
+    "f61180a3-7eba-41bb-a229-d6775f579025": {
+      "id": "f61180a3-7eba-41bb-a229-d6775f579025",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": null,
+      "children_ids": [
+        "e530f8c2-1f57-48b8-8667-ea4ac9394adc"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "44b5208d-0df7-44df-858b-ff6274ea5125",
+      "node_created": "2024-09-03T20:56:33.031598",
+      "last_accessed": "2024-09-03T21:09:38.465930"
+    },
+    "e530f8c2-1f57-48b8-8667-ea4ac9394adc": {
+      "id": "e530f8c2-1f57-48b8-8667-ea4ac9394adc",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating and rewarding subject. What specifically would you like to learn? Are you looking to:\n\n1. Review basic math concepts (e.g., fractions, decimals, algebra)?\n2. Learn a new topic (e.g., geometry, trigonometry, calculus)?\n3. Prepare for a specific exam or test (e.g., SAT, ACT, GRE)?\n4. Improve your problem-solving skills or critical thinking?\n5. Explore a particular area of math (e.g., number theory, combinatorics, statistics)?\n\nLet me know, and I'll be happy to assist you in your math journey!\n\nAlso, what's your current level of math knowledge? Are you a beginner, intermediate, or advanced learner?",
+      "parent_id": "f61180a3-7eba-41bb-a229-d6775f579025",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:56:34.399366",
+      "last_accessed": "2024-09-03T21:09:38.465930"
+    },
+    "f87516fe-fee8-4f30-8c67-512fd0b8fc7d": {
+      "id": "f87516fe-fee8-4f30-8c67-512fd0b8fc7d",
+      "role": "user",
+      "content": "I want to learn bio",
+      "parent_id": null,
+      "children_ids": [
+        "625abdba-765d-43fc-bef4-06cc31fc4d78"
+      ],
+      "prev_edit_id": "694b1e40-92b8-4e1d-aa28-17b9f4067348",
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:56:38.322274",
+      "last_accessed": "2024-09-03T21:09:38.465930"
+    },
+    "625abdba-765d-43fc-bef4-06cc31fc4d78": {
+      "id": "625abdba-765d-43fc-bef4-06cc31fc4d78",
+      "role": "assistant",
+      "content": "\n\nBio, or biology, is a fascinating field that explores the intricacies of life and living organisms. I'd be happy to help you learn more about it.\n\nTo get started, let's break down the subject into its core areas:\n\n1. **Cell Biology**: The study of cells, which are the basic units of life. We'll explore cell structure, function, and division.\n2. **Genetics**: The study of heredity and variation. We'll learn about DNA, genes, and how traits are passed down from one generation to the next.\n3. **Evolution**: The study of how living organisms change over time. We'll explore the mechanisms of evolution, such as natural selection and speciation.\n4. **Ecology**: The study of the relationships between living organisms and their environment. We'll learn about ecosystems, populations, and the impact of human activities on the environment.\n5. **Biochemistry**: The study of the chemical processes that occur within living organisms. We'll explore the building blocks of life, such as carbohydrates, proteins, and nucleic acids.\n\nWhich area of bio would you like to start with?\n\nType one of the following:\n\nA) Cell Biology\nB) Genetics\nC) Evolution\nD) Ecology\nE) Biochemistry\n\nLet me know, and I'll provide you with a brief introduction and some resources to get you started!",
+      "parent_id": "f87516fe-fee8-4f30-8c67-512fd0b8fc7d",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:56:39.641049",
+      "last_accessed": "2024-09-03T21:09:38.465930"
+    },
+    "694b1e40-92b8-4e1d-aa28-17b9f4067348": {
+      "id": "694b1e40-92b8-4e1d-aa28-17b9f4067348",
+      "role": "user",
+      "content": "I want to learn bio",
+      "parent_id": null,
+      "children_ids": [
+        "a815ef52-2dd5-41da-9f0f-c52230e85ab3"
+      ],
+      "prev_edit_id": "44b5208d-0df7-44df-858b-ff6274ea5125",
+      "next_edit_id": "f87516fe-fee8-4f30-8c67-512fd0b8fc7d",
+      "node_created": "2024-09-03T20:56:41.894967",
+      "last_accessed": "2024-09-03T21:09:38.465930"
+    },
+    "a815ef52-2dd5-41da-9f0f-c52230e85ab3": {
+      "id": "a815ef52-2dd5-41da-9f0f-c52230e85ab3",
+      "role": "assistant",
+      "content": "\n\nBio, or biology, is a fascinating field that explores the intricacies of life and living organisms. I'd be happy to help you learn more about it.\n\nTo get started, let's break down the subject into its core areas:\n\n1. **Cell Biology**: The study of cells, which are the basic units of life. We'll explore cell structure, function, and division.\n2. **Genetics**: The study of heredity and variation. We'll learn about DNA, genes, and how traits are passed down from one generation to the next.\n3. **Evolution**: The study of how living organisms change over time. We'll explore the mechanisms of evolution, such as natural selection and speciation.\n4. **Ecology**: The study of the relationships between living organisms and their environment. We'll learn about ecosystems, populations, and the impact of human activities on the environment.\n5. **Biochemistry**: The study of the chemical processes that occur within living organisms. We'll explore the building blocks of life, such as carbohydrates, proteins, and nucleic acids.\n\nWhich area of bio would you like to start with?\n\nType one of the following:\n\nA) Cell Biology\nB) Genetics\nC) Evolution\nD) Ecology\nE) Biochemistry\n\nLet me know, and I'll provide you with a brief introduction and some resources to get you started!",
+      "parent_id": "694b1e40-92b8-4e1d-aa28-17b9f4067348",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:56:43.113793",
+      "last_accessed": "2024-09-03T21:09:38.465930"
+    },
+    "44b5208d-0df7-44df-858b-ff6274ea5125": {
+      "id": "44b5208d-0df7-44df-858b-ff6274ea5125",
+      "role": "user",
+      "content": "I want to learn bio",
+      "parent_id": null,
+      "children_ids": [
+        "7c898925-e52d-41e5-9c41-52d3afca14de"
+      ],
+      "prev_edit_id": "f61180a3-7eba-41bb-a229-d6775f579025",
+      "next_edit_id": "694b1e40-92b8-4e1d-aa28-17b9f4067348",
+      "node_created": "2024-09-03T20:59:58.293766",
+      "last_accessed": "2024-09-03T21:09:38.465930"
+    },
+    "7c898925-e52d-41e5-9c41-52d3afca14de": {
+      "id": "7c898925-e52d-41e5-9c41-52d3afca14de",
+      "role": "assistant",
+      "content": "\n\nBio, or biology, is a fascinating field that explores the intricacies of life and living organisms. I'd be happy to help you learn more about it.\n\nTo get started, let's break down the subject into its core areas:\n\n1. **Cell Biology**: The study of cells, which are the basic units of life. We'll explore cell structure, function, and division.\n2. **Genetics**: The study of heredity and variation. We'll learn about DNA, genes, and how traits are passed down from one generation to the next.\n3. **Evolution**: The study of how living organisms change over time. We'll explore the mechanisms of evolution, such as natural selection and speciation.\n4. **Ecology**: The study of the relationships between living organisms and their environment. We'll learn about ecosystems, populations, and the impact of human activities on the environment.\n5. **Biochemistry**: The study of the chemical processes that occur within living organisms. We'll explore the building blocks of life, such as carbohydrates, proteins, and nucleic acids.\n\nWhich area of bio would you like to start with?\n\nType one of the following:\n\nA) Cell Biology\nB) Genetics\nC) Evolution\nD) Ecology\nE) Biochemistry\n\nLet me know, and I'll provide you with a brief introduction and some resources to get you started!",
+      "parent_id": "44b5208d-0df7-44df-858b-ff6274ea5125",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:59:59.546895",
+      "last_accessed": "2024-09-03T21:09:38.465930"
+    }
+  },
+  "created": "2024-09-03T20:56:33.031598",
+  "last_accessed": "2024-09-03T21:09:38.465930"
+}

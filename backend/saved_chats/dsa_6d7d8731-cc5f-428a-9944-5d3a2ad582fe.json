@@ -1,0 +1,110 @@
+{
+  "chat_id": "6d7d8731-cc5f-428a-9944-5d3a2ad582fe",
+  "user_id": "dsa",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 5,
+  "root_node_id": "2ed41026-c868-4000-84c7-f894c63ae6b8",
+  "current_node_id": "2b998377-6dc7-4cb9-9602-9ff6dd4b98e3",
+  "node_map": {
+    "2ed41026-c868-4000-84c7-f894c63ae6b8": {
+      "id": "2ed41026-c868-4000-84c7-f894c63ae6b8",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "6b92c93a-4cee-4844-a2fd-ac3bc5c3af67"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T09:01:30.096483",
+      "last_accessed": "2024-09-06T05:46:36.399737"
+    },
+    "6b92c93a-4cee-4844-a2fd-ac3bc5c3af67": {
+      "id": "6b92c93a-4cee-4844-a2fd-ac3bc5c3af67",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "2ed41026-c868-4000-84c7-f894c63ae6b8",
+      "children_ids": [
+        "751b864d-9d51-40be-8c7a-ffd0c0c33a62"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T09:01:31.162889",
+      "last_accessed": "2024-09-06T05:46:36.399737"
+    },
+    "61c3f482-c423-43f2-bd45-2cd186bd5d9c": {
+      "id": "61c3f482-c423-43f2-bd45-2cd186bd5d9c",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": "6b92c93a-4cee-4844-a2fd-ac3bc5c3af67",
+      "children_ids": [
+        "f7689e84-9d0c-44ab-8e95-d27f2fa672f5"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "2b998377-6dc7-4cb9-9602-9ff6dd4b98e3",
+      "node_created": "2024-09-04T09:01:35.023875",
+      "last_accessed": "2024-09-06T05:46:36.399737"
+    },
+    "f7689e84-9d0c-44ab-8e95-d27f2fa672f5": {
+      "id": "f7689e84-9d0c-44ab-8e95-d27f2fa672f5",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating subject. What specifically would you like to learn? Are you looking to review a particular concept, or do you want to start from the basics and work your way up?\n\nHere are some options to get you started:\n\n1. **Basic math concepts**: We can review addition, subtraction, multiplication, and division, or move on to more advanced topics like fractions, decimals, and percentages.\n2. **Algebra**: We can explore equations, graphing, and functions, or dive into more advanced topics like systems of equations and quadratic equations.\n3. **Geometry**: We can learn about points, lines, angles, and shapes, or explore more advanced topics like trigonometry and 3D geometry.\n4. **Calculus**: We can introduce the basics of limits, derivatives, and integrals, or explore more advanced topics like differential equations and multivariable calculus.\n5. **Math topics of your choice**: Is there a specific area of math that interests you, such as statistics, probability, or number theory?\n\nLet me know which direction you'd like to take, and we can get started!",
+      "parent_id": "61c3f482-c423-43f2-bd45-2cd186bd5d9c",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T09:01:36.118609",
+      "last_accessed": "2024-09-06T05:46:36.399737"
+    },
+    "751b864d-9d51-40be-8c7a-ffd0c0c33a62": {
+      "id": "751b864d-9d51-40be-8c7a-ffd0c0c33a62",
+      "role": "user",
+      "content": "I want to learn computer science",
+      "parent_id": "6b92c93a-4cee-4844-a2fd-ac3bc5c3af67",
+      "children_ids": [
+        "5f55523f-945b-473e-82d8-19e4fd4a66d7"
+      ],
+      "prev_edit_id": "89cd1699-c609-48a5-8949-e04767d63174",
+      "next_edit_id": null,
+      "node_created": "2024-09-04T09:01:44.294647",
+      "last_accessed": "2024-09-06T05:46:36.399737"
+    },
+    "5f55523f-945b-473e-82d8-19e4fd4a66d7": {
+      "id": "5f55523f-945b-473e-82d8-19e4fd4a66d7",
+      "role": "assistant",
+      "content": "\n\nComputer science is a fascinating field that can lead to many exciting career opportunities.\n\nTo get started, let's break down the basics:\n\n1. **What do you want to do with computer science?**\n\t* Do you want to become a software developer, data scientist, or something else?\n\t* Are you interested in web development, mobile app development, or game development?\n2. **What's your current level of experience?**\n\t* Have you had any prior experience with programming or computer science?\n\t* Do you have a basic understanding of coding concepts, such as variables, loops, and functions?\n3. **What resources do you need?**\n\t* Do you need help finding online courses, tutorials, or textbooks?\n\t* Are you looking for a specific programming language to learn, such as Python, Java, or JavaScript?\n\nLet me know your answers to these questions, and I'll be happy to provide you with personalized guidance and recommendations to help you get started with computer science!\n\n(Also, if you're completely new to computer science, don't worry! We can start from the basics and build from there.)",
+      "parent_id": "751b864d-9d51-40be-8c7a-ffd0c0c33a62",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T09:01:45.778062",
+      "last_accessed": "2024-09-06T05:46:36.399737"
+    },
+    "2b998377-6dc7-4cb9-9602-9ff6dd4b98e3": {
+      "id": "2b998377-6dc7-4cb9-9602-9ff6dd4b98e3",
+      "role": "user",
+      "content": "I want to learn physics",
+      "parent_id": "6b92c93a-4cee-4844-a2fd-ac3bc5c3af67",
+      "children_ids": [],
+      "prev_edit_id": "61c3f482-c423-43f2-bd45-2cd186bd5d9c",
+      "next_edit_id": "89cd1699-c609-48a5-8949-e04767d63174",
+      "node_created": "2024-09-04T09:01:57.097013",
+      "last_accessed": "2024-09-06T05:46:36.399737"
+    },
+    "89cd1699-c609-48a5-8949-e04767d63174": {
+      "id": "89cd1699-c609-48a5-8949-e04767d63174",
+      "role": "user",
+      "content": "I want to learn physics",
+      "parent_id": "6b92c93a-4cee-4844-a2fd-ac3bc5c3af67",
+      "children_ids": [],
+      "prev_edit_id": "2b998377-6dc7-4cb9-9602-9ff6dd4b98e3",
+      "next_edit_id": "751b864d-9d51-40be-8c7a-ffd0c0c33a62",
+      "node_created": "2024-09-04T09:02:42.322816",
+      "last_accessed": "2024-09-06T05:46:36.399737"
+    }
+  },
+  "created": "2024-09-04T09:01:30.096483",
+  "last_accessed": "2024-09-06T05:46:36.399737"
+}

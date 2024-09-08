@@ -1,0 +1,38 @@
+{
+  "chat_id": "a80edc43-754d-4dbf-9dd1-6bb6550fb073",
+  "user_id": "Sbarajassd",
+  "name": "Nursing Inquiry",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 2,
+  "root_node_id": "da0866c6-7e73-44c9-a979-95b44939a3cb",
+  "current_node_id": "d9fd1f17-c6d7-457b-89e2-6c6ec158d0e3",
+  "node_map": {
+    "da0866c6-7e73-44c9-a979-95b44939a3cb": {
+      "id": "da0866c6-7e73-44c9-a979-95b44939a3cb",
+      "role": "user",
+      "content": "I want to learn about nursing",
+      "parent_id": null,
+      "children_ids": [
+        "d9fd1f17-c6d7-457b-89e2-6c6ec158d0e3"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T02:01:32.796754",
+      "last_accessed": "2024-09-02T06:55:46.972293"
+    },
+    "d9fd1f17-c6d7-457b-89e2-6c6ec158d0e3": {
+      "id": "d9fd1f17-c6d7-457b-89e2-6c6ec158d0e3",
+      "role": "assistant",
+      "content": "\n\nNursing is a rewarding and challenging profession that requires a unique blend of compassion, technical skills, and critical thinking. Here's an overview to get you started:\n\n**What is Nursing?**\n\nNursing is a healthcare profession that focuses on providing care and support to individuals, families, and communities. Nurses work in a variety of settings, including hospitals, clinics, nursing homes, and community health organizations.\n\n**Types of Nursing Roles**\n\nThere are many types of nursing roles, including:\n\n1. **Registered Nurse (RN)**: Provides direct patient care, administers medications, and develops care plans.\n2. **Licensed Practical Nurse (LPN) or Licensed Vocational Nurse (LVN)**: Provides basic nursing care, such as taking vital signs and administering medications.\n3. **Certified Nurse Practitioner (CNP)**: Provides primary and specialty care to patients, including diagnosing and treating illnesses.\n4. **Certified Nurse Midwife (CNM)**: Provides prenatal, delivery, and postpartum care to women.\n5. **Certified Nurse Anesthetist (CNA)**: Provides anesthesia care to patients undergoing surgery.\n\n**Nursing Education and Training**\n\nTo become a nurse, you'll need to complete the following steps:\n\n1. **Earn a High School Diploma or Equivalent**: A strong foundation in sciences, such as biology and chemistry, is essential.\n2. **Complete a Nursing Program**: Associate's or Bachelor's degree in nursing (ADN or BSN) is typically required.\n3. **Pass the NCLEX-RN Exam**: A national licensing exam that tests your knowledge and skills.\n4. **Obtain Licensure**: Requirements vary by state, but most states require a RN license to practice.\n5. **Pursue Specialized Training**: Many nurses choose to pursue certifications in specialized areas, such as pediatrics or gerontology.\n\n**Nursing Specialties**\n\nNursing has many specialties, including:\n\n1. **Pediatric Nursing**: Caring for infants, children, and adolescents.\n2. **Gerontological Nursing**: Caring for older adults.\n3. **Critical Care Nursing**: Caring for patients in intensive care units.\n4. **Mental Health Nursing**: Caring for patients with mental health conditions.\n5. **Community Health Nursing**: Providing care and education to patients in community settings.\n\n**Benefits of a Nursing Career**\n\n1. **Job Security**: Nursing is a high-demand profession with a wide range of job opportunities.\n2. **Competitive Salary**: Nurses are among the highest-paid healthcare professionals.\n3. **Personal Satisfaction**: Nursing allows you to make a positive impact on patients' lives.\n4. **Variety**: Nursing involves working with diverse patients, conditions, and settings.\n5. **Opportunities for Advancement**: Nurses can pursue leadership roles, specialized certifications, and advanced degrees.\n\nI hope this introduction to nursing has sparked your interest! Do you have any specific questions or areas you'd like to explore further?",
+      "parent_id": "da0866c6-7e73-44c9-a979-95b44939a3cb",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T02:01:35.726805",
+      "last_accessed": "2024-09-02T06:55:46.972293"
+    }
+  },
+  "created": "2024-09-02T02:01:32.796754",
+  "last_accessed": "2024-09-02T06:55:46.972293"
+}

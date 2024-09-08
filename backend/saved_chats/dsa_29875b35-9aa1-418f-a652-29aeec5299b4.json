@@ -1,0 +1,266 @@
+{
+  "chat_id": "29875b35-9aa1-418f-a652-29aeec5299b4",
+  "user_id": "dsa",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant. Please help the user.",
+  "running_summary": "",
+  "message_count": 17,
+  "root_node_id": "a58f2406-595f-4927-9db1-9fda006c79e0",
+  "current_node_id": "15d8f330-1c7e-46df-9d73-ad1fc53e5f0b",
+  "node_map": {
+    "a58f2406-595f-4927-9db1-9fda006c79e0": {
+      "id": "a58f2406-595f-4927-9db1-9fda006c79e0",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "1b06e28d-b321-415d-86e6-e7b86524d33c"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "152d145c-4353-4b2f-8deb-2daf55894bbe",
+      "node_created": "2024-09-03T21:41:12.501093",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "1b06e28d-b321-415d-86e6-e7b86524d33c": {
+      "id": "1b06e28d-b321-415d-86e6-e7b86524d33c",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "a58f2406-595f-4927-9db1-9fda006c79e0",
+      "children_ids": [
+        "e454817d-ed03-42be-adb0-d0877832cb58"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:41:13.726390",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "820190d5-26c0-4594-81ee-5c31f109c5b1": {
+      "id": "820190d5-26c0-4594-81ee-5c31f109c5b1",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": "1b06e28d-b321-415d-86e6-e7b86524d33c",
+      "children_ids": [
+        "f888e4be-60e3-4246-8b26-d17a1b0199ad"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "15d8f330-1c7e-46df-9d73-ad1fc53e5f0b",
+      "node_created": "2024-09-03T21:41:17.626022",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "f888e4be-60e3-4246-8b26-d17a1b0199ad": {
+      "id": "f888e4be-60e3-4246-8b26-d17a1b0199ad",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating subject. What specifically would you like to learn? Are you looking to review a particular concept, or do you want to start from the basics and work your way up?\n\nHere are some options to get you started:\n\n1. **Basic math concepts**: We can review addition, subtraction, multiplication, and division, or move on to more advanced topics like fractions, decimals, and percentages.\n2. **Algebra**: We can explore equations, graphing, and functions, or dive into more advanced topics like systems of equations and quadratic equations.\n3. **Geometry**: We can learn about points, lines, angles, and shapes, or explore more advanced topics like trigonometry and 3D geometry.\n4. **Calculus**: We can introduce the basics of limits, derivatives, and integrals, or explore more advanced topics like differential equations and multivariable calculus.\n5. **Math topics of your choice**: Is there a specific area of math that interests you, such as statistics, probability, or number theory?\n\nLet me know which direction you'd like to take, and we can get started!",
+      "parent_id": "820190d5-26c0-4594-81ee-5c31f109c5b1",
+      "children_ids": [
+        "ec5c761f-184c-47ff-b5aa-423d120044f8"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:41:18.677147",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "15d8f330-1c7e-46df-9d73-ad1fc53e5f0b": {
+      "id": "15d8f330-1c7e-46df-9d73-ad1fc53e5f0b",
+      "role": "user",
+      "content": "I want to learn comp sci",
+      "parent_id": "1b06e28d-b321-415d-86e6-e7b86524d33c",
+      "children_ids": [
+        "697172c0-ed99-41b7-8653-ee036a415852"
+      ],
+      "prev_edit_id": "820190d5-26c0-4594-81ee-5c31f109c5b1",
+      "next_edit_id": "e454817d-ed03-42be-adb0-d0877832cb58",
+      "node_created": "2024-09-03T21:41:54.197528",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "697172c0-ed99-41b7-8653-ee036a415852": {
+      "id": "697172c0-ed99-41b7-8653-ee036a415852",
+      "role": "assistant",
+      "content": "\n\nComp Sci (Computer Science) is a fascinating field that can lead to many exciting career opportunities.\n\nTo get started, let's break down the basics:\n\n1. **Programming languages**: You'll need to learn at least one programming language, such as Python, Java, C++, or JavaScript. Each language has its own strengths and weaknesses, so it's essential to choose one that interests you.\n2. **Data structures and algorithms**: Understanding how to store and manipulate data, as well as how to write efficient algorithms, is crucial in Comp Sci.\n3. **Computer systems**: You'll need to learn about computer architecture, operating systems, and networking.\n4. **Software engineering**: This involves designing, developing, and testing software applications.\n\nHere are some resources to help you get started:\n\n**Online courses**:\n\n* Codecademy (interactive coding lessons)\n* Coursera (university-level courses)\n* edX (massive open online courses)\n* Udemy (video courses)\n\n**Books**:\n\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Computer Organization and Design\" by David A. Patterson and John L. Hennessy\n* \"Clean Code\" by Robert C. Martin\n\n**Communities**:\n\n* Reddit's r/learnprogramming and r/compsci\n* Stack Overflow (Q&A platform for programmers)\n* GitHub (open-source code repository)\n\n**Tips**:\n\n* Start with the basics and build projects to apply your knowledge.\n* Practice coding regularly to develop problem-solving skills.\n* Join online communities to connect with other programmers and get help when you're stuck.\n\nWhich area of Comp Sci interests you the most?",
+      "parent_id": "15d8f330-1c7e-46df-9d73-ad1fc53e5f0b",
+      "children_ids": [
+        "2ed50156-7596-4864-b2e1-3853039dd2aa"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:41:55.633508",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "152d145c-4353-4b2f-8deb-2daf55894bbe": {
+      "id": "152d145c-4353-4b2f-8deb-2daf55894bbe",
+      "role": "user",
+      "content": "hey bob",
+      "parent_id": null,
+      "children_ids": [
+        "1e623be9-d427-42c5-bdff-57a13856d49b"
+      ],
+      "prev_edit_id": "a58f2406-595f-4927-9db1-9fda006c79e0",
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:42:04.057092",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "1e623be9-d427-42c5-bdff-57a13856d49b": {
+      "id": "1e623be9-d427-42c5-bdff-57a13856d49b",
+      "role": "assistant",
+      "content": "\n\nWhat's up? How can I help you today?",
+      "parent_id": "152d145c-4353-4b2f-8deb-2daf55894bbe",
+      "children_ids": [
+        "0f78b500-e017-44dd-b737-2c7c9409a6d3"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:42:04.596091",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "0f78b500-e017-44dd-b737-2c7c9409a6d3": {
+      "id": "0f78b500-e017-44dd-b737-2c7c9409a6d3",
+      "role": "user",
+      "content": "What is your name that I referred you to?",
+      "parent_id": "1e623be9-d427-42c5-bdff-57a13856d49b",
+      "children_ids": [
+        "35cc8e08-fe09-4895-ba54-4b506fe2180d"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:45:34.939378",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "35cc8e08-fe09-4895-ba54-4b506fe2180d": {
+      "id": "35cc8e08-fe09-4895-ba54-4b506fe2180d",
+      "role": "assistant",
+      "content": "\n\nYou referred to me as \"Bob\". I'm a helpful assistant, and I don't have a personal name, but I'll go along with \"Bob\" if it makes you feel more comfortable!",
+      "parent_id": "0f78b500-e017-44dd-b737-2c7c9409a6d3",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:45:35.694246",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "ec5c761f-184c-47ff-b5aa-423d120044f8": {
+      "id": "ec5c761f-184c-47ff-b5aa-423d120044f8",
+      "role": "user",
+      "content": "What subject do you believe I should start on?",
+      "parent_id": "f888e4be-60e3-4246-8b26-d17a1b0199ad",
+      "children_ids": [
+        "bfad8bf2-7aff-40ee-aca3-601b6dc7fafa"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:46:01.745023",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "bfad8bf2-7aff-40ee-aca3-601b6dc7fafa": {
+      "id": "bfad8bf2-7aff-40ee-aca3-601b6dc7fafa",
+      "role": "assistant",
+      "content": "\n\nConsidering you're looking to learn math, I'd recommend starting with **Basic Math Concepts**. This will give you a solid foundation in the fundamentals of math, and it's a great way to build your confidence and skills.\n\nWe can start with the basics of arithmetic, such as:\n\n1. **Number systems**: Understanding whole numbers, integers, fractions, decimals, and percentages.\n2. **Operations**: Mastering addition, subtraction, multiplication, and division, including order of operations.\n3. **Ratios and proportions**: Learning to work with equivalent ratios and proportions.\n\nOnce you feel comfortable with these basics, we can move on to more advanced topics, such as algebra, geometry, or even calculus.\n\nStarting with basic math concepts will also help you develop problem-solving skills, critical thinking, and a deeper understanding of mathematical concepts.\n\nHow does that sound?",
+      "parent_id": "ec5c761f-184c-47ff-b5aa-423d120044f8",
+      "children_ids": [
+        "4cf32da2-7aa7-4629-9673-9faa410ef5f7"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:46:03.107760",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "2ed50156-7596-4864-b2e1-3853039dd2aa": {
+      "id": "2ed50156-7596-4864-b2e1-3853039dd2aa",
+      "role": "user",
+      "content": "What subject do you believe I should start on?",
+      "parent_id": "697172c0-ed99-41b7-8653-ee036a415852",
+      "children_ids": [
+        "4f5ea9de-1e5e-412e-be0f-2ce00c7645ec"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:46:10.454995",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "4f5ea9de-1e5e-412e-be0f-2ce00c7645ec": {
+      "id": "4f5ea9de-1e5e-412e-be0f-2ce00c7645ec",
+      "role": "assistant",
+      "content": "\n\nConsidering you're new to Comp Sci, I'd recommend starting with **Python** as your first programming language. Here's why:\n\n1. **Easy to learn**: Python has a simple syntax and is relatively easy to read and write, making it perfect for beginners.\n2. **Versatile**: Python can be used for a wide range of applications, such as web development, data analysis, machine learning, and more.\n3. **Large community**: Python has a massive and active community, which means there are plenty of resources available, including tutorials, documentation, and libraries.\n4. **Cross-platform**: Python can run on multiple operating systems, including Windows, macOS, and Linux.\n5. **Job prospects**: Python is a highly sought-after skill in the industry, and knowing Python can open up many job opportunities.\n\nOnce you have a solid grasp of Python, you can move on to other languages and topics, such as:\n\n* **Data structures and algorithms**: Learn about arrays, linked lists, stacks, queues, trees, and graphs.\n* **Computer systems**: Study computer architecture, operating systems, and networking.\n* **Software engineering**: Learn about design patterns, testing, and version control.\n\nTo get started with Python, I recommend the following resources:\n\n* **Codecademy's Python course**: A interactive and comprehensive course that covers the basics of Python.\n* **Python.org**: The official Python website has an excellent tutorial for beginners.\n* **Automate the Boring Stuff with Python**: A free online book that focuses on practical applications of Python.\n\nHow does that sound? Are you ready to start learning Python?",
+      "parent_id": "2ed50156-7596-4864-b2e1-3853039dd2aa",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T21:46:12.229211",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "4cf32da2-7aa7-4629-9673-9faa410ef5f7": {
+      "id": "4cf32da2-7aa7-4629-9673-9faa410ef5f7",
+      "role": "user",
+      "content": "teach me more about calculus",
+      "parent_id": "bfad8bf2-7aff-40ee-aca3-601b6dc7fafa",
+      "children_ids": [
+        "2d2a80fe-4e83-472f-9806-cbbfef83a988"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T04:09:13.065242",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "2d2a80fe-4e83-472f-9806-cbbfef83a988": {
+      "id": "2d2a80fe-4e83-472f-9806-cbbfef83a988",
+      "role": "assistant",
+      "content": "Calculus is a fascinating branch of mathematics that deals with the study of continuous change. It's a fundamental subject that has numerous applications in various fields, including physics, engineering, economics, and computer science.\n\n**What is Calculus?**\n\nCalculus is a branch of mathematics that focuses on two main concepts:\n\n1. **Differential Calculus**: This branch of calculus deals with the study of rates of change and slopes of curves. It helps us understand how functions change as their input changes.\n2. **Integral Calculus**: This branch of calculus deals with the study of accumulation of quantities. It helps us find the area under curves, volumes of solids, and other quantities.\n\n**Key Concepts in Calculus**\n\nHere are some key concepts you'll encounter in calculus:\n\n1. **Limits**: The concept of limits is central to calculus. It helps us understand how functions behave as the input values approach a certain point.\n2. **Derivatives**: Derivatives measure the rate of change of a function with respect to its input. They're used to find the slope of a curve at a given point.\n3. **Integrals**: Integrals are used to find the area under curves, volumes of solids, and other quantities. They're the inverse operation of derivatives.\n4. **Multivariable Calculus**: This branch of calculus deals with functions of multiple variables. It's used to study surfaces, volumes, and other higher-dimensional objects.\n\n**Applications of Calculus**\n\nCalculus has numerous applications in various fields, including:\n\n1. **Physics**: Calculus is used to describe the motion of objects, including the acceleration and velocity of particles and the curvature of space-time.\n2. **Engineering**: Calculus is used to design and optimize systems, such as bridges, buildings, and electronic circuits.\n3. **Economics**: Calculus is used to model economic systems, including the behavior of markets and the impact of policy changes.\n4. **Computer Science**: Calculus is used in machine learning, data analysis, and algorithm design.\n\n**Types of Calculus**\n\nThere are several types of calculus, including:\n\n1. **Differential Calculus**: This branch of calculus deals with the study of rates of change and slopes of curves.\n2. **Integral Calculus**: This branch of calculus deals with the study of accumulation of quantities.\n3. **Multivariable Calculus**: This branch of calculus deals with functions of multiple variables.\n4. **Vector Calculus**: This branch of calculus deals with the study of vectors and their properties.\n\n**Learning Calculus**\n\nLearning calculus can be challenging, but with the right resources and mindset, it can be a rewarding experience. Here are some tips to help you learn calculus:\n\n1. **Start with the basics**: Make sure you have a solid understanding of algebra and geometry before diving into calculus.\n2. **Use visual aids**: Visual aids, such as graphs and charts, can help you understand complex calculus concepts.\n3. **Practice, practice, practice**: Practice problems are essential to mastering calculus. Start with simple problems and gradually move on to more complex ones.\n4. **Seek help when needed**: Don't be afraid to ask for help if you're struggling with a concept. You can seek help from teachers, tutors, or online resources.\n\nI hope this gives you a good introduction to calculus! Do you have any specific questions about calculus or would you like to learn more about a particular topic?",
+      "parent_id": "4cf32da2-7aa7-4629-9673-9faa410ef5f7",
+      "children_ids": [
+        "e5b1e06d-0a2a-42b7-974d-63179d9db4f0"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T04:10:03.894665",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "e5b1e06d-0a2a-42b7-974d-63179d9db4f0": {
+      "id": "e5b1e06d-0a2a-42b7-974d-63179d9db4f0",
+      "role": "user",
+      "content": "thank you",
+      "parent_id": "2d2a80fe-4e83-472f-9806-cbbfef83a988",
+      "children_ids": [
+        "162d876c-d8d5-462c-8c62-1e0103c434c8"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T04:14:44.665318",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "162d876c-d8d5-462c-8c62-1e0103c434c8": {
+      "id": "162d876c-d8d5-462c-8c62-1e0103c434c8",
+      "role": "assistant",
+      "content": "\n\nIt was my pleasure to help you learn about math and calculus. If you have any more questions or need further clarification on any of the topics we discussed, feel free to ask me anytime.\n\nRemember, math is a journey, and it's okay to take it one step at a time. Don't be afraid to ask for help, and don't get discouraged if you don't understand something at first. With practice and patience, you'll become more confident and proficient in math.\n\nIf you're ready to move on to the next topic or want to explore something new, just let me know! I'm here to help.\n\nHave a great day, and happy learning!",
+      "parent_id": "e5b1e06d-0a2a-42b7-974d-63179d9db4f0",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T04:14:45.743624",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "e454817d-ed03-42be-adb0-d0877832cb58": {
+      "id": "e454817d-ed03-42be-adb0-d0877832cb58",
+      "role": "user",
+      "content": "I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci ",
+      "parent_id": "1b06e28d-b321-415d-86e6-e7b86524d33c",
+      "children_ids": [
+        "b13c7745-30e7-445d-989b-de0d9e9dd4fa"
+      ],
+      "prev_edit_id": "15d8f330-1c7e-46df-9d73-ad1fc53e5f0b",
+      "next_edit_id": null,
+      "node_created": "2024-09-04T05:16:05.894377",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    },
+    "b13c7745-30e7-445d-989b-de0d9e9dd4fa": {
+      "id": "b13c7745-30e7-445d-989b-de0d9e9dd4fa",
+      "role": "assistant",
+      "content": "\n\nIt sounds like you're really enthusiastic about learning computer science!\n\nThat's awesome! Computer science is a fascinating field that can lead to many exciting career opportunities.\n\nTo get started, let's break down the process into smaller, manageable steps. Here's a suggested plan:\n\n1. **Learn the basics**:\n\t* Start with online resources like Codecademy, Coursera, or edX. They offer introductory courses on programming, data structures, and algorithms.\n\t* Familiarize yourself with popular programming languages like Python, Java, or C++.\n2. **Choose a specialization**:\n\t* Think about what areas of computer science interest you the most, such as:\n\t\t+ Web development\n\t\t+ Artificial intelligence and machine learning\n\t\t+ Data science and analytics\n\t\t+ Cybersecurity\n\t\t+ Game development\n3. **Find online resources and communities**:\n\t* Join online forums like Reddit's r/learnprogramming, r/webdev, or Stack Overflow.\n\t* Participate in online communities like GitHub, where you can find open-source projects and collaborate with other developers.\n4. **Practice and build projects**:\n\t* Start with small projects, like building a simple calculator or a game.\n\t* As you gain experience, move on to more complex projects that challenge you.\n5. **Take online courses or attend workshops**:\n\t* Look for courses or workshops that focus on your chosen specialization.\n\t* Attend conferences, meetups, or hackathons to network with other developers and learn from industry experts.\n6. **Read books and articles**:\n\t* Stay up-to-date with the latest developments in computer science by reading books, research papers, and articles.\n\t* Focus on topics that interest you and help you improve your skills.\n\nRemember, learning computer science takes time, patience, and dedication. Don't be afraid to ask for help, and don't get discouraged if you encounter obstacles. You got this!\n\nWhich area of computer science interests you the most?",
+      "parent_id": "e454817d-ed03-42be-adb0-d0877832cb58",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T05:16:07.908413",
+      "last_accessed": "2024-09-04T09:04:34.300739"
+    }
+  },
+  "created": "2024-09-03T21:41:12.501093",
+  "last_accessed": "2024-09-04T09:04:34.300739"
+}

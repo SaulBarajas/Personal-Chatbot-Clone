@@ -1,0 +1,113 @@
+{
+  "chat_id": "082eb358-bba3-4a4b-92a0-fa6db3d8d11f",
+  "user_id": "fsa",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 6,
+  "root_node_id": "fd2e1255-b376-4dd3-a9e6-425ec748e603",
+  "current_node_id": "351a4c20-fdb7-41aa-b3e5-c8ce09c049d5",
+  "node_map": {
+    "5515ae65-d995-4df6-8e7c-f3dc79752b8f": {
+      "id": "5515ae65-d995-4df6-8e7c-f3dc79752b8f",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "3b546388-b219-4dd2-aef1-3f1f91126bbe"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "fd2e1255-b376-4dd3-a9e6-425ec748e603",
+      "node_created": "2024-09-03T04:27:07.154252",
+      "last_accessed": "2024-09-03T05:03:16.906858"
+    },
+    "3b546388-b219-4dd2-aef1-3f1f91126bbe": {
+      "id": "3b546388-b219-4dd2-aef1-3f1f91126bbe",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "5515ae65-d995-4df6-8e7c-f3dc79752b8f",
+      "children_ids": [
+        "63cdb3a2-63f7-4ac3-8377-42a7f84d3ad1",
+        "63cdb3a2-63f7-4ac3-8377-42a7f84d3ad1"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T04:27:08.205365",
+      "last_accessed": "2024-09-03T05:03:16.906858"
+    },
+    "38d0aaaa-2233-4a66-aac2-a21655510909": {
+      "id": "38d0aaaa-2233-4a66-aac2-a21655510909",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": "3b546388-b219-4dd2-aef1-3f1f91126bbe",
+      "children_ids": [
+        "da8c78b7-16b5-4995-865d-ea6d27419caf"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "63cdb3a2-63f7-4ac3-8377-42a7f84d3ad1",
+      "node_created": "2024-09-03T04:27:14.130928",
+      "last_accessed": "2024-09-03T05:03:16.906858"
+    },
+    "da8c78b7-16b5-4995-865d-ea6d27419caf": {
+      "id": "da8c78b7-16b5-4995-865d-ea6d27419caf",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating subject. What specifically would you like to learn? Are you looking to review a particular concept, or do you want to start from the basics and work your way up?\n\nHere are some options to get you started:\n\n1. **Basic math concepts**: We can review addition, subtraction, multiplication, and division, or move on to more advanced topics like fractions, decimals, and percentages.\n2. **Algebra**: We can explore equations, graphing, and functions, or dive into more advanced topics like systems of equations and quadratic equations.\n3. **Geometry**: We can learn about points, lines, angles, and shapes, or explore more advanced topics like trigonometry and 3D geometry.\n4. **Calculus**: We can introduce the basics of limits, derivatives, and integrals, or explore more advanced topics like differential equations and multivariable calculus.\n5. **Math topics of your choice**: Is there a specific area of math that interests you, such as statistics, probability, or number theory?\n\nLet me know which direction you'd like to take, and we can get started!",
+      "parent_id": "38d0aaaa-2233-4a66-aac2-a21655510909",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T04:27:15.077003",
+      "last_accessed": "2024-09-03T05:03:16.906858"
+    },
+    "63cdb3a2-63f7-4ac3-8377-42a7f84d3ad1": {
+      "id": "63cdb3a2-63f7-4ac3-8377-42a7f84d3ad1",
+      "role": "user",
+      "content": "I want to learn comp sci",
+      "parent_id": "3b546388-b219-4dd2-aef1-3f1f91126bbe",
+      "children_ids": [
+        "9254e929-c201-4f0c-9494-30df518b914d"
+      ],
+      "prev_edit_id": "38d0aaaa-2233-4a66-aac2-a21655510909",
+      "next_edit_id": null,
+      "node_created": "2024-09-03T04:27:19.596322",
+      "last_accessed": "2024-09-03T05:03:16.906858"
+    },
+    "9254e929-c201-4f0c-9494-30df518b914d": {
+      "id": "9254e929-c201-4f0c-9494-30df518b914d",
+      "role": "assistant",
+      "content": "\n\nComp Sci (Computer Science) is a fascinating field that can lead to many exciting career opportunities.\n\nTo get started, let's break down the basics:\n\n1. **Programming languages**: You'll need to learn at least one programming language, such as Python, Java, C++, or JavaScript. Each language has its own strengths and weaknesses, so it's essential to choose one that interests you.\n2. **Data structures and algorithms**: Understanding how to store and manipulate data, as well as how to write efficient algorithms, is crucial in Comp Sci.\n3. **Computer systems**: You'll need to learn about computer architecture, operating systems, and networking.\n4. **Software engineering**: This involves designing, developing, and testing software applications.\n\nHere are some resources to help you get started:\n\n**Online courses**:\n\n* Codecademy (interactive coding lessons)\n* Coursera (university-level courses)\n* edX (massive open online courses)\n* Udemy (video courses)\n\n**Books**:\n\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Computer Organization and Design\" by David A. Patterson and John L. Hennessy\n* \"Clean Code\" by Robert C. Martin\n\n**Communities**:\n\n* Reddit's r/learnprogramming and r/compsci\n* Stack Overflow (Q&A platform for programmers)\n* GitHub (open-source code repository)\n\n**Tips**:\n\n* Start with the basics and build projects to apply your knowledge.\n* Practice coding regularly to develop problem-solving skills.\n* Join online communities to connect with other programmers and get help when you're stuck.\n\nWhich area of Comp Sci interests you the most?",
+      "parent_id": "63cdb3a2-63f7-4ac3-8377-42a7f84d3ad1",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T04:27:20.851494",
+      "last_accessed": "2024-09-03T05:03:16.906858"
+    },
+    "fd2e1255-b376-4dd3-a9e6-425ec748e603": {
+      "id": "fd2e1255-b376-4dd3-a9e6-425ec748e603",
+      "role": "user",
+      "content": "hey bob",
+      "parent_id": null,
+      "children_ids": [
+        "351a4c20-fdb7-41aa-b3e5-c8ce09c049d5"
+      ],
+      "prev_edit_id": "5515ae65-d995-4df6-8e7c-f3dc79752b8f",
+      "next_edit_id": null,
+      "node_created": "2024-09-03T04:29:29.534242",
+      "last_accessed": "2024-09-03T05:03:16.906858"
+    },
+    "351a4c20-fdb7-41aa-b3e5-c8ce09c049d5": {
+      "id": "351a4c20-fdb7-41aa-b3e5-c8ce09c049d5",
+      "role": "assistant",
+      "content": "\n\nWhat's up? How can I help you today?",
+      "parent_id": "fd2e1255-b376-4dd3-a9e6-425ec748e603",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T04:29:30.147559",
+      "last_accessed": "2024-09-03T05:03:16.906858"
+    }
+  },
+  "created": "2024-09-03T04:27:07.154252",
+  "last_accessed": "2024-09-03T05:03:16.906858"
+}

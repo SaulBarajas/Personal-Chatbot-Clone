@@ -1,0 +1,38 @@
+{
+  "chat_id": "7e3dc035-465f-4de2-8f87-031ed3d6faa9",
+  "user_id": "Sbarajas",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 2,
+  "root_node_id": "ed15b0fd-b035-4094-8fd2-dae85e7e437b",
+  "current_node_id": "a6c0a2fd-c8cc-45b4-a6e1-117aea063646",
+  "node_map": {
+    "ed15b0fd-b035-4094-8fd2-dae85e7e437b": {
+      "id": "ed15b0fd-b035-4094-8fd2-dae85e7e437b",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "a6c0a2fd-c8cc-45b4-a6e1-117aea063646"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T06:52:03.714225",
+      "last_accessed": "2024-09-02T10:02:03.800699"
+    },
+    "a6c0a2fd-c8cc-45b4-a6e1-117aea063646": {
+      "id": "a6c0a2fd-c8cc-45b4-a6e1-117aea063646",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "ed15b0fd-b035-4094-8fd2-dae85e7e437b",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T06:52:05.298679",
+      "last_accessed": "2024-09-02T10:02:03.800699"
+    }
+  },
+  "created": "2024-09-02T06:52:03.714225",
+  "last_accessed": "2024-09-02T10:02:03.800699"
+}

@@ -1,0 +1,62 @@
+{
+  "chat_id": "85d6285c-4648-4d8d-ba3e-f59bbe09bfa4",
+  "user_id": "Sbarajas",
+  "name": "Medical Ambitions",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 3,
+  "root_node_id": "490ab532-22b4-4588-a379-dcbae06d2b08",
+  "current_node_id": "0c88b11a-ada1-4728-ba9b-976e27d4f7fc",
+  "node_map": {
+    "2bd4bae4-e0ae-4a9c-a9f8-cdf5f07215c1": {
+      "id": "2bd4bae4-e0ae-4a9c-a9f8-cdf5f07215c1",
+      "role": "user",
+      "content": "I want to be a doctor, specifically a surgeon",
+      "parent_id": null,
+      "children_ids": [
+        "d6c3f56b-53e2-4990-88b5-95045e35ddd1"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "490ab532-22b4-4588-a379-dcbae06d2b08",
+      "node_created": "2024-09-02T09:47:19.602790",
+      "last_accessed": "2024-09-03T01:16:40.748259"
+    },
+    "d6c3f56b-53e2-4990-88b5-95045e35ddd1": {
+      "id": "d6c3f56b-53e2-4990-88b5-95045e35ddd1",
+      "role": "assistant",
+      "content": "\n\nThat's a fantastic career goal! Becoming a surgeon requires a tremendous amount of education, training, and dedication, but it can be a highly rewarding profession.\n\nTo become a surgeon, you'll need to follow these general steps:\n\n1. **Earn a Bachelor's Degree**: Most medical schools require applicants to have a bachelor's degree, typically in a science-related field like biology, chemistry, or physics. Coursework should include classes in biology, chemistry, organic chemistry, physics, and mathematics.\n2. **Take the Medical College Admission Test (MCAT)**: The MCAT is a standardized exam that assesses your knowledge in areas like biology, chemistry, physics, and critical thinking.\n3. **Attend Medical School**: Medical school typically takes four years to complete and includes both classroom instruction and clinical training. You'll study a wide range of subjects, including anatomy, biochemistry, pharmacology, and pathology.\n4. **Complete a Surgical Residency**: After medical school, you'll need to complete a surgical residency program, which can last from five to seven years. During this time, you'll work under the supervision of experienced surgeons to gain hands-on experience and develop your surgical skills.\n5. **Obtain Licensure**: You'll need to obtain a medical license to practice medicine in your state. This typically involves passing the United States Medical Licensing Examination (USMLE) or the Comprehensive Osteopathic Medical Licensing Examination (COMLEX) series.\n6. **Pursue Additional Training (Optional)**: Some surgeons may choose to pursue additional specialized training through fellowship programs, which can last one to three years.\n\n**Types of Surgeons**:\n\nThere are many types of surgeons, including:\n\n* General surgeons: perform a wide range of surgical procedures, including appendectomies, hernia repairs, and gallbladder removals.\n* Cardiothoracic surgeons: specialize in surgeries of the heart, lungs, and other organs in the chest.\n* Neurosurgeons: specialize in surgeries of the brain, spine, and nervous system.\n* Orthopedic surgeons: specialize in surgeries of the musculoskeletal system, including joints and bones.\n* Plastic surgeons: specialize in reconstructive and cosmetic surgeries.\n\n**Tips and Recommendations**:\n\n* Gain as much experience as possible in a clinical setting, whether through volunteering, internships, or shadowing surgeons.\n* Develop strong communication and interpersonal skills, as surgeons must work effectively with patients, families, and other healthcare professionals.\n* Stay up-to-date with the latest medical research and advancements in your field.\n* Consider pursuing a master's degree or Ph.D. in a related field, such as biomedical engineering or public health.\n\nI hope this information helps you on your path to becoming a surgeon! Do you have any specific questions or areas of interest you'd like to discuss further?",
+      "parent_id": "2bd4bae4-e0ae-4a9c-a9f8-cdf5f07215c1",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T09:47:22.397269",
+      "last_accessed": "2024-09-03T01:16:40.748259"
+    },
+    "490ab532-22b4-4588-a379-dcbae06d2b08": {
+      "id": "490ab532-22b4-4588-a379-dcbae06d2b08",
+      "role": "user",
+      "content": "I want to be a doctor, specifically a dermatologist",
+      "parent_id": null,
+      "children_ids": [
+        "0c88b11a-ada1-4728-ba9b-976e27d4f7fc"
+      ],
+      "prev_edit_id": "2bd4bae4-e0ae-4a9c-a9f8-cdf5f07215c1",
+      "next_edit_id": null,
+      "node_created": "2024-09-02T09:47:34.683193",
+      "last_accessed": "2024-09-03T01:16:40.748259"
+    },
+    "0c88b11a-ada1-4728-ba9b-976e27d4f7fc": {
+      "id": "0c88b11a-ada1-4728-ba9b-976e27d4f7fc",
+      "role": "assistant",
+      "content": "\n\nThat's a great career goal! Being a dermatologist can be a highly rewarding profession, as you'll have the opportunity to help people improve their skin health and appearance. Here's a general overview to get you started:\n\n**Education and Training:**\n\n1. **Bachelor's Degree (Typically 4 Years):** Earn a bachelor's degree in a science-related field, such as biology, chemistry, or physics.\n2. **Medical School (Typically 4 Years):** Attend medical school to earn a Doctor of Medicine (M.D.) or Doctor of Osteopathic Medicine (D.O.) degree.\n3. **Residency Program (Typically 3-4 Years):** Complete a dermatology residency program, which provides hands-on training in diagnosing and treating skin conditions.\n4. **Fellowship Program (Optional):** Consider pursuing a fellowship program to specialize in a specific area of dermatology, such as cosmetic dermatology or pediatric dermatology.\n\n**Licensure and Certification:**\n\n1. **Medical Licensure:** Obtain a medical license in the state where you plan to practice.\n2. **Board Certification:** Pass the American Board of Dermatology (ABD) certification exam to become a board-certified dermatologist.\n\n**Skills and Qualities:**\n\n1. **Strong Communication Skills:** Dermatologists must be able to communicate effectively with patients, explaining complex medical information in a clear and concise manner.\n2. **Attention to Detail:** Dermatologists must be meticulous in their diagnoses and treatments, as small mistakes can have significant consequences.\n3. **Emotional Stability:** Dermatologists often deal with patients who are anxious or distressed about their skin conditions, so emotional stability and empathy are essential.\n4. **Technical Skills:** Dermatologists must be proficient in various medical procedures, such as biopsies, laser treatments, and skin surgeries.\n\n**Specializations:**\n\n1. **Medical Dermatology:** Focuses on treating skin conditions, such as acne, eczema, and psoriasis.\n2. **Surgical Dermatology:** Involves performing skin surgeries, such as Mohs surgery for skin cancer.\n3. **Cosmetic Dermatology:** Focuses on improving the appearance of the skin through procedures like Botox, fillers, and chemical peels.\n4. **Pediatric Dermatology:** Specializes in treating skin conditions in children.\n\n**Salary and Job Outlook:**\n\n1. **Median Salary:** According to the Bureau of Labor Statistics, the median annual salary for dermatologists is around $400,000.\n2. **Job Outlook:** The demand for dermatologists is expected to grow 7% from 2020 to 2030, which is faster than the average for all occupations.\n\nI hope this information helps you get started on your journey to becoming a dermatologist!",
+      "parent_id": "490ab532-22b4-4588-a379-dcbae06d2b08",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T09:47:36.756949",
+      "last_accessed": "2024-09-03T01:16:40.748259"
+    }
+  },
+  "created": "2024-09-02T09:47:19.602790",
+  "last_accessed": "2024-09-03T01:16:40.748259"
+}

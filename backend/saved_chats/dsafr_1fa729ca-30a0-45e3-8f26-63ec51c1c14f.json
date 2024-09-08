@@ -1,0 +1,94 @@
+{
+  "chat_id": "1fa729ca-30a0-45e3-8f26-63ec51c1c14f",
+  "user_id": "dsafr",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 5,
+  "root_node_id": "4401645a-6fbf-44ad-9cbd-c51bd3ca1f49",
+  "current_node_id": "92d9ec2b-8937-450e-b5e6-97d8555091f8",
+  "node_map": {
+    "4401645a-6fbf-44ad-9cbd-c51bd3ca1f49": {
+      "id": "4401645a-6fbf-44ad-9cbd-c51bd3ca1f49",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "5d4057c4-2739-492f-8747-3ad9e6d893ef"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:36:02.179942",
+      "last_accessed": "2024-09-03T20:56:22.271252"
+    },
+    "5d4057c4-2739-492f-8747-3ad9e6d893ef": {
+      "id": "5d4057c4-2739-492f-8747-3ad9e6d893ef",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "4401645a-6fbf-44ad-9cbd-c51bd3ca1f49",
+      "children_ids": [
+        "92d9ec2b-8937-450e-b5e6-97d8555091f8",
+        "92d9ec2b-8937-450e-b5e6-97d8555091f8",
+        "92d9ec2b-8937-450e-b5e6-97d8555091f8",
+        "92d9ec2b-8937-450e-b5e6-97d8555091f8",
+        "92d9ec2b-8937-450e-b5e6-97d8555091f8",
+        "92d9ec2b-8937-450e-b5e6-97d8555091f8",
+        "92d9ec2b-8937-450e-b5e6-97d8555091f8"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:36:03.191692",
+      "last_accessed": "2024-09-03T20:56:22.271252"
+    },
+    "36c21cab-d935-4373-976b-5a55ff59fe11": {
+      "id": "36c21cab-d935-4373-976b-5a55ff59fe11",
+      "role": "user",
+      "content": "I need help with math",
+      "parent_id": "5d4057c4-2739-492f-8747-3ad9e6d893ef",
+      "children_ids": [
+        "91e41276-55b9-400b-9e2b-8211ee18bbc5"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "92d9ec2b-8937-450e-b5e6-97d8555091f8",
+      "node_created": "2024-09-03T20:36:07.161453",
+      "last_accessed": "2024-09-03T20:56:22.271252"
+    },
+    "91e41276-55b9-400b-9e2b-8211ee18bbc5": {
+      "id": "91e41276-55b9-400b-9e2b-8211ee18bbc5",
+      "role": "assistant",
+      "content": "\n\nWhat kind of math do you need help with? Do you have a specific problem or topic you're struggling with, such as algebra, geometry, calculus, or something else?",
+      "parent_id": "36c21cab-d935-4373-976b-5a55ff59fe11",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:36:07.666650",
+      "last_accessed": "2024-09-03T20:56:22.271252"
+    },
+    "92d9ec2b-8937-450e-b5e6-97d8555091f8": {
+      "id": "92d9ec2b-8937-450e-b5e6-97d8555091f8",
+      "role": "user",
+      "content": "I need help with comp sci",
+      "parent_id": "5d4057c4-2739-492f-8747-3ad9e6d893ef",
+      "children_ids": [
+        "c794ea38-fe7b-4b2a-b605-dd8cfc0faed0"
+      ],
+      "prev_edit_id": "36c21cab-d935-4373-976b-5a55ff59fe11",
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:36:13.005777",
+      "last_accessed": "2024-09-03T20:56:22.271252"
+    },
+    "c794ea38-fe7b-4b2a-b605-dd8cfc0faed0": {
+      "id": "c794ea38-fe7b-4b2a-b605-dd8cfc0faed0",
+      "role": "assistant",
+      "content": "\n\nComputer Science can be a challenging but rewarding field. What specifically do you need help with? Are you:\n\n* Working on a project and getting stuck?\n* Studying for a exam and need clarification on a concept?\n* Trying to learn a new programming language or skill?\n* Debugging code and can't figure out the issue?\n\nLet me know and I'll do my best to assist you!",
+      "parent_id": "92d9ec2b-8937-450e-b5e6-97d8555091f8",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:36:13.765666",
+      "last_accessed": "2024-09-03T20:56:22.271252"
+    }
+  },
+  "created": "2024-09-03T20:36:02.179942",
+  "last_accessed": "2024-09-03T20:56:22.271252"
+}

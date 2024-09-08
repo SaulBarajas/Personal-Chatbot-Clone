@@ -1,0 +1,62 @@
+{
+  "chat_id": "398f99eb-c6c8-4d28-99dc-6e1270e45095",
+  "user_id": "Sbarajassd",
+  "name": "JS Help",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 3,
+  "root_node_id": "19c68ff6-2cfd-4ee5-96b6-6f48d423c51c",
+  "current_node_id": "19c68ff6-2cfd-4ee5-96b6-6f48d423c51c",
+  "node_map": {
+    "29f0ea05-1b51-48f7-9cea-ce8ea4b428ec": {
+      "id": "29f0ea05-1b51-48f7-9cea-ce8ea4b428ec",
+      "role": "user",
+      "content": "hey do you know js",
+      "parent_id": null,
+      "children_ids": [
+        "b9ad953d-218a-4ebd-b894-1df489c542ae"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "19c68ff6-2cfd-4ee5-96b6-6f48d423c51c",
+      "node_created": "2024-09-02T08:40:56.356853",
+      "last_accessed": "2024-09-03T10:33:17.920969"
+    },
+    "b9ad953d-218a-4ebd-b894-1df489c542ae": {
+      "id": "b9ad953d-218a-4ebd-b894-1df489c542ae",
+      "role": "assistant",
+      "content": "\n\nJavaScript! Yes, I'm familiar with it. I can help with:\n\n* Syntax and semantics\n* DOM manipulation\n* Event handling\n* Asynchronous programming (e.g., callbacks, promises, async/await)\n* JavaScript frameworks and libraries (e.g., React, Angular, Vue.js, jQuery)\n* Browser and Node.js environments\n\nWhat specific aspect of JavaScript would you like help with? Do you have a code snippet or a problem you're trying to solve?",
+      "parent_id": "29f0ea05-1b51-48f7-9cea-ce8ea4b428ec",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T08:40:57.985987",
+      "last_accessed": "2024-09-03T10:33:17.920969"
+    },
+    "19c68ff6-2cfd-4ee5-96b6-6f48d423c51c": {
+      "id": "19c68ff6-2cfd-4ee5-96b6-6f48d423c51c",
+      "role": "user",
+      "content": "hey do you know python?",
+      "parent_id": null,
+      "children_ids": [
+        "72bc01a5-a3c8-422c-a016-426c9e74ec52"
+      ],
+      "prev_edit_id": "29f0ea05-1b51-48f7-9cea-ce8ea4b428ec",
+      "next_edit_id": null,
+      "node_created": "2024-09-02T09:42:36.184088",
+      "last_accessed": "2024-09-03T10:33:17.920969"
+    },
+    "72bc01a5-a3c8-422c-a016-426c9e74ec52": {
+      "id": "72bc01a5-a3c8-422c-a016-426c9e74ec52",
+      "role": "assistant",
+      "content": "\n\nI have knowledge of Python. What would you like to know or do?",
+      "parent_id": "19c68ff6-2cfd-4ee5-96b6-6f48d423c51c",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T09:42:36.716739",
+      "last_accessed": "2024-09-03T10:33:17.920969"
+    }
+  },
+  "created": "2024-09-02T08:40:56.356853",
+  "last_accessed": "2024-09-03T10:33:17.920969"
+}

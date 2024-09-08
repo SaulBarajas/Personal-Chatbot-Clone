@@ -1,0 +1,103 @@
+{
+  "chat_id": "feac628d-ae29-4668-a4fc-ad38b4727410",
+  "user_id": "dsaa",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 5,
+  "root_node_id": "fe003d47-777f-4204-87d8-23505ed2282c",
+  "current_node_id": "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+  "node_map": {
+    "fe003d47-777f-4204-87d8-23505ed2282c": {
+      "id": "fe003d47-777f-4204-87d8-23505ed2282c",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "2e43e9af-0c53-4414-a73e-4cb25ffe8e43"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T10:33:32.655380",
+      "last_accessed": "2024-09-03T10:36:58.064120"
+    },
+    "2e43e9af-0c53-4414-a73e-4cb25ffe8e43": {
+      "id": "2e43e9af-0c53-4414-a73e-4cb25ffe8e43",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "fe003d47-777f-4204-87d8-23505ed2282c",
+      "children_ids": [
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+        "25ae255a-4be1-46dd-a83f-d8eb5c05e812"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T10:33:33.693669",
+      "last_accessed": "2024-09-03T10:36:58.064120"
+    },
+    "6f5b714b-10f8-41d8-9cb3-77200e67b804": {
+      "id": "6f5b714b-10f8-41d8-9cb3-77200e67b804",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": "2e43e9af-0c53-4414-a73e-4cb25ffe8e43",
+      "children_ids": [
+        "2cf96beb-133f-4fed-8a4c-303691f48689"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+      "node_created": "2024-09-03T10:33:36.848236",
+      "last_accessed": "2024-09-03T10:36:58.064120"
+    },
+    "2cf96beb-133f-4fed-8a4c-303691f48689": {
+      "id": "2cf96beb-133f-4fed-8a4c-303691f48689",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating subject. What specifically would you like to learn? Are you looking to review a particular concept, or do you want to start from the basics and work your way up?\n\nHere are some options to get you started:\n\n1. **Basic math concepts**: We can review addition, subtraction, multiplication, and division, or move on to more advanced topics like fractions, decimals, and percentages.\n2. **Algebra**: We can explore equations, graphing, and functions, or dive into more advanced topics like systems of equations and quadratic equations.\n3. **Geometry**: We can learn about points, lines, angles, and shapes, or explore more advanced topics like trigonometry and 3D geometry.\n4. **Calculus**: We can introduce the basics of limits, derivatives, and integrals, or explore more advanced topics like differential equations and multivariable calculus.\n5. **Math topics of your choice**: Is there a specific area of math that interests you, such as statistics, probability, or number theory?\n\nLet me know which direction you'd like to take, and we can get started!",
+      "parent_id": "6f5b714b-10f8-41d8-9cb3-77200e67b804",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T10:33:38.029058",
+      "last_accessed": "2024-09-03T10:36:58.064120"
+    },
+    "25ae255a-4be1-46dd-a83f-d8eb5c05e812": {
+      "id": "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+      "role": "user",
+      "content": "I want to learn comp sci",
+      "parent_id": "2e43e9af-0c53-4414-a73e-4cb25ffe8e43",
+      "children_ids": [
+        "96d89bd1-4580-44db-a14e-61d8253a6275"
+      ],
+      "prev_edit_id": "6f5b714b-10f8-41d8-9cb3-77200e67b804",
+      "next_edit_id": null,
+      "node_created": "2024-09-03T10:33:42.329736",
+      "last_accessed": "2024-09-03T10:36:58.064120"
+    },
+    "96d89bd1-4580-44db-a14e-61d8253a6275": {
+      "id": "96d89bd1-4580-44db-a14e-61d8253a6275",
+      "role": "assistant",
+      "content": "\n\nComp Sci (Computer Science) is a fascinating field that can lead to many exciting career opportunities.\n\nTo get started, let's break down the basics:\n\n1. **Programming languages**: You'll need to learn at least one programming language, such as Python, Java, C++, or JavaScript. Each language has its own strengths and weaknesses, so it's essential to choose one that interests you.\n2. **Data structures and algorithms**: Understanding how to store and manipulate data, as well as how to write efficient algorithms, is crucial in Comp Sci.\n3. **Computer systems**: You'll need to learn about computer architecture, operating systems, and networking.\n4. **Software engineering**: This involves designing, developing, and testing software applications.\n\nHere are some resources to help you get started:\n\n**Online courses**:\n\n* Codecademy (interactive coding lessons)\n* Coursera (university-level courses)\n* edX (massive open online courses)\n* Udemy (video courses)\n\n**Books**:\n\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Computer Organization and Design\" by David A. Patterson and John L. Hennessy\n* \"Clean Code\" by Robert C. Martin\n\n**Communities**:\n\n* Reddit's r/learnprogramming and r/compsci\n* Stack Overflow (Q&A platform for programmers)\n* GitHub (open-source code repository)\n\n**Tips**:\n\n* Start with the basics and build projects to apply your knowledge.\n* Practice coding regularly to develop problem-solving skills.\n* Join online communities to connect with other programmers and get help when you're stuck.\n\nWhich area of Comp Sci interests you the most?",
+      "parent_id": "25ae255a-4be1-46dd-a83f-d8eb5c05e812",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T10:33:44.010464",
+      "last_accessed": "2024-09-03T10:36:58.064120"
+    }
+  },
+  "created": "2024-09-03T10:33:32.655380",
+  "last_accessed": "2024-09-03T10:36:58.064120"
+}

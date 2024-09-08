@@ -1,0 +1,38 @@
+{
+  "chat_id": "6a31f640-beb7-4422-b464-efa2e6a4d25d",
+  "user_id": "dsa",
+  "name": "Comp Sci Enthusiast",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 2,
+  "root_node_id": "8114187e-a8a6-4d60-ace7-7d088bd30a97",
+  "current_node_id": "f16033ff-4b86-4899-85e8-683e8f0392ef",
+  "node_map": {
+    "8114187e-a8a6-4d60-ace7-7d088bd30a97": {
+      "id": "8114187e-a8a6-4d60-ace7-7d088bd30a97",
+      "role": "user",
+      "content": "I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci I want to learn comp sci ",
+      "parent_id": null,
+      "children_ids": [
+        "f16033ff-4b86-4899-85e8-683e8f0392ef"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T06:32:23.199537",
+      "last_accessed": "2024-09-06T05:13:40.583998"
+    },
+    "f16033ff-4b86-4899-85e8-683e8f0392ef": {
+      "id": "f16033ff-4b86-4899-85e8-683e8f0392ef",
+      "role": "assistant",
+      "content": "\n\nIt's great that you're enthusiastic about learning computer science! I'm happy to help you get started.\n\nTo help you focus, let's break down the field of computer science into smaller, manageable chunks. Here are some areas to consider:\n\n1. **Programming languages**: Which programming languages do you want to learn? Some popular choices for beginners include Python, Java, JavaScript, and C++.\n2. **Data structures and algorithms**: Understanding data structures (like arrays, linked lists, and trees) and algorithms (like sorting and searching) is essential for computer science.\n3. **Web development**: If you're interested in building websites and web applications, you'll want to learn about HTML, CSS, and JavaScript.\n4. **Artificial intelligence and machine learning**: These areas involve teaching computers to think and learn like humans.\n5. **Database systems**: Learning about database design, querying, and management can help you build robust and scalable applications.\n6. **Computer systems**: Understanding how computers work, including hardware, operating systems, and networking, can help you build efficient and reliable systems.\n\nTo get started, I recommend the following resources:\n\n1. **Online courses**:\n\t* Codecademy (interactive coding lessons)\n\t* Coursera (university-level courses)\n\t* edX (massive open online courses)\n2. **Books**:\n\t* \"Introduction to Algorithms\" by Thomas H. Cormen\n\t* \"Clean Code\" by Robert C. Martin\n\t* \"The Pragmatic Programmer\" by Andrew Hunt and David Thomas\n3. **Communities**:\n\t* Reddit's r/learnprogramming and r/compsci\n\t* Stack Overflow (Q&A platform for programmers)\n\t* GitHub (social coding platform)\n\nWhich area of computer science interests you the most? Do you have any specific questions or topics you'd like to explore?",
+      "parent_id": "8114187e-a8a6-4d60-ace7-7d088bd30a97",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-04T06:32:25.459616",
+      "last_accessed": "2024-09-06T05:13:40.583998"
+    }
+  },
+  "created": "2024-09-04T06:32:23.199537",
+  "last_accessed": "2024-09-06T05:13:40.583998"
+}

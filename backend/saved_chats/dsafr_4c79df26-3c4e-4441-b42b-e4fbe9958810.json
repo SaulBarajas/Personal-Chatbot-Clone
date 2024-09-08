@@ -1,0 +1,180 @@
+{
+  "chat_id": "4c79df26-3c4e-4441-b42b-e4fbe9958810",
+  "user_id": "dsafr",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 7,
+  "root_node_id": "3691171e-e4c5-4871-b82d-f92074ddbdf7",
+  "current_node_id": "a9b8b35e-6c10-4ca2-ae50-7e34f9845301",
+  "node_map": {
+    "3691171e-e4c5-4871-b82d-f92074ddbdf7": {
+      "id": "3691171e-e4c5-4871-b82d-f92074ddbdf7",
+      "role": "user",
+      "content": "Hey",
+      "parent_id": null,
+      "children_ids": [
+        "68681cfc-c6aa-4847-9dc8-608b885a8b01"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:23:08.339174",
+      "last_accessed": "2024-09-03T20:56:24.074272"
+    },
+    "68681cfc-c6aa-4847-9dc8-608b885a8b01": {
+      "id": "68681cfc-c6aa-4847-9dc8-608b885a8b01",
+      "role": "assistant",
+      "content": "\n\nHow can I assist you today?",
+      "parent_id": "3691171e-e4c5-4871-b82d-f92074ddbdf7",
+      "children_ids": [
+        "06d84941-3afb-4223-be3a-dc3f878002f4",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "06d84941-3afb-4223-be3a-dc3f878002f4",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "06d84941-3afb-4223-be3a-dc3f878002f4",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "06d84941-3afb-4223-be3a-dc3f878002f4",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "06d84941-3afb-4223-be3a-dc3f878002f4",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "06d84941-3afb-4223-be3a-dc3f878002f4",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "06d84941-3afb-4223-be3a-dc3f878002f4",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "06d84941-3afb-4223-be3a-dc3f878002f4",
+        "365bd151-9e29-49dc-a895-4d0cc1de7381",
+        "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+        "a9b8b35e-6c10-4ca2-ae50-7e34f9845301"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:23:09.144777",
+      "last_accessed": "2024-09-03T20:56:24.074272"
+    },
+    "a9b8b35e-6c10-4ca2-ae50-7e34f9845301": {
+      "id": "a9b8b35e-6c10-4ca2-ae50-7e34f9845301",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": "68681cfc-c6aa-4847-9dc8-608b885a8b01",
+      "children_ids": [
+        "f9476f9a-09fb-449f-b7cd-2ceb63c5dc84"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+      "node_created": "2024-09-03T20:23:13.302233",
+      "last_accessed": "2024-09-03T20:56:24.074272"
+    },
+    "f9476f9a-09fb-449f-b7cd-2ceb63c5dc84": {
+      "id": "f9476f9a-09fb-449f-b7cd-2ceb63c5dc84",
+      "role": "assistant",
+      "content": "\n\nMath can be a bit challenging, but with the right approach, it can be fun and rewarding.\n\nWhat specific area of math would you like to learn? Would you like to start with:\n\n1. Basic arithmetic (addition, subtraction, multiplication, division)?\n2. Algebra (equations, variables, functions)?\n3. Geometry (points, lines, angles, shapes)?\n4. Calculus (limits, derivatives, integrals)?\n5. Something else (please specify)?\n\nLet me know, and I'll be happy to help you get started!",
+      "parent_id": "a9b8b35e-6c10-4ca2-ae50-7e34f9845301",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:23:13.950646",
+      "last_accessed": "2024-09-03T20:56:24.074272"
+    },
+    "adf18a8e-ba54-4d92-801b-fc2987dbc55c": {
+      "id": "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+      "role": "user",
+      "content": "I want to learn comp sci",
+      "parent_id": "68681cfc-c6aa-4847-9dc8-608b885a8b01",
+      "children_ids": [
+        "3e8a7242-9744-4b7e-bf72-fe5dfe0a59a7"
+      ],
+      "prev_edit_id": "a9b8b35e-6c10-4ca2-ae50-7e34f9845301",
+      "next_edit_id": "365bd151-9e29-49dc-a895-4d0cc1de7381",
+      "node_created": "2024-09-03T20:23:21.135583",
+      "last_accessed": "2024-09-03T20:56:24.074272"
+    },
+    "3e8a7242-9744-4b7e-bf72-fe5dfe0a59a7": {
+      "id": "3e8a7242-9744-4b7e-bf72-fe5dfe0a59a7",
+      "role": "assistant",
+      "content": "\n\nComp Sci (Computer Science) is a fascinating field with a wide range of applications and opportunities.\n\nTo get started, let's break down the basics:\n\n1. **Programming languages**: You'll need to learn at least one programming language, such as Python, Java, C++, or JavaScript.\n2. **Data structures and algorithms**: Understanding how to store and manipulate data, as well as how to write efficient algorithms, is crucial.\n3. **Computer systems**: You'll learn about computer architecture, operating systems, and networking.\n4. **Software engineering**: This involves designing, developing, and testing software applications.\n\nHere are some resources to help you get started:\n\n**Online courses**:\n\n* Codecademy (interactive coding lessons)\n* Coursera (university-level courses)\n* edX (massive open online courses)\n* Udemy (video courses)\n\n**Books**:\n\n* \"Introduction to Algorithms\" by Thomas H. Cormen\n* \"Computer Organization and Design\" by David A. Patterson and John L. Hennessy\n* \"Clean Code\" by Robert C. Martin\n\n**Communities**:\n\n* Reddit's r/learnprogramming and r/compsci\n* Stack Overflow (Q&A platform for programmers)\n* GitHub (open-source code repository)\n\n**Tips**:\n\n* Start with the basics and build projects to apply your knowledge.\n* Practice coding regularly to develop problem-solving skills.\n* Join online communities to connect with other programmers and get help when you're stuck.\n\nWhich area of Comp Sci interests you the most?",
+      "parent_id": "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:23:22.766083",
+      "last_accessed": "2024-09-03T20:56:24.074272"
+    },
+    "365bd151-9e29-49dc-a895-4d0cc1de7381": {
+      "id": "365bd151-9e29-49dc-a895-4d0cc1de7381",
+      "role": "user",
+      "content": "I want to learn biology",
+      "parent_id": "68681cfc-c6aa-4847-9dc8-608b885a8b01",
+      "children_ids": [
+        "dccfe399-ad29-4964-9b67-9200b3f69dc3"
+      ],
+      "prev_edit_id": "adf18a8e-ba54-4d92-801b-fc2987dbc55c",
+      "next_edit_id": "06d84941-3afb-4223-be3a-dc3f878002f4",
+      "node_created": "2024-09-03T20:23:57.608565",
+      "last_accessed": "2024-09-03T20:56:24.074272"
+    },
+    "dccfe399-ad29-4964-9b67-9200b3f69dc3": {
+      "id": "dccfe399-ad29-4964-9b67-9200b3f69dc3",
+      "role": "assistant",
+      "content": "\n\nBiology is a fascinating field that can help you understand the world around you.\n\nTo get started, what specific area of biology are you interested in? Would you like to learn about:\n\n1. Cells and genetics?\n2. Evolution and ecology?\n3. Human biology and health?\n4. Microbiology and disease?\n5. Something else?\n\nLet me know, and I can help you find resources and information to get you started!\n\n(Also, do you have any prior knowledge of biology or is this a complete beginner's journey?)",
+      "parent_id": "365bd151-9e29-49dc-a895-4d0cc1de7381",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:23:58.438822",
+      "last_accessed": "2024-09-03T20:56:24.074272"
+    },
+    "06d84941-3afb-4223-be3a-dc3f878002f4": {
+      "id": "06d84941-3afb-4223-be3a-dc3f878002f4",
+      "role": "user",
+      "content": "I want to learn physics",
+      "parent_id": "68681cfc-c6aa-4847-9dc8-608b885a8b01",
+      "children_ids": [
+        "7c489bff-06f5-4e87-96fb-0cd764cc0e05"
+      ],
+      "prev_edit_id": "365bd151-9e29-49dc-a895-4d0cc1de7381",
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:24:29.504441",
+      "last_accessed": "2024-09-03T20:56:24.074272"
+    },
+    "7c489bff-06f5-4e87-96fb-0cd764cc0e05": {
+      "id": "7c489bff-06f5-4e87-96fb-0cd764cc0e05",
+      "role": "assistant",
+      "content": "\n\nPhysics is a fascinating subject that can help you understand the world around you.\n\nTo get started, what specific area of physics are you interested in learning about? Would you like to explore:\n\n1. Classical Mechanics (motion, forces, energy, etc.)\n2. Electromagnetism (electricity, magnetism, light, etc.)\n3. Thermodynamics (heat, temperature, energy transfer, etc.)\n4. Quantum Mechanics (atoms, particles, wave-particle duality, etc.)\n5. Relativity (special and general relativity, spacetime, etc.)\n\nOr would you like me to suggest a beginner-friendly topic to get you started?\n\nLet me know, and I'll be happy to help you learn physics!",
+      "parent_id": "06d84941-3afb-4223-be3a-dc3f878002f4",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T20:24:30.229828",
+      "last_accessed": "2024-09-03T20:56:24.074272"
+    }
+  },
+  "created": "2024-09-03T20:23:08.339174",
+  "last_accessed": "2024-09-03T20:56:24.074272"
+}

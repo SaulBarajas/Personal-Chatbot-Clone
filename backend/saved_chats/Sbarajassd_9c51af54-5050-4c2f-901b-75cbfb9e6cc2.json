@@ -1,0 +1,38 @@
+{
+  "chat_id": "9c51af54-5050-4c2f-901b-75cbfb9e6cc2",
+  "user_id": "Sbarajassd",
+  "name": "CS Learning",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 2,
+  "root_node_id": "34c1da05-0481-4fea-bc2d-eac1a50a753e",
+  "current_node_id": "a4e406ce-098d-4b48-a516-d645e2444d10",
+  "node_map": {
+    "34c1da05-0481-4fea-bc2d-eac1a50a753e": {
+      "id": "34c1da05-0481-4fea-bc2d-eac1a50a753e",
+      "role": "user",
+      "content": "Hey I want to learn about computer science",
+      "parent_id": null,
+      "children_ids": [
+        "a4e406ce-098d-4b48-a516-d645e2444d10"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T02:00:03.348331",
+      "last_accessed": "2024-09-02T08:41:11.276458"
+    },
+    "a4e406ce-098d-4b48-a516-d645e2444d10": {
+      "id": "a4e406ce-098d-4b48-a516-d645e2444d10",
+      "role": "assistant",
+      "content": "\n\nComputer science is a fascinating field that encompasses a wide range of topics, from the basics of programming to the latest advancements in artificial intelligence and machine learning.\n\nTo get started, let's break down the field of computer science into some of its main branches:\n\n1. **Programming**: This is the foundation of computer science. Programming involves writing code in various languages (e.g., Python, Java, C++) to create software, apps, and websites.\n2. **Algorithms**: An algorithm is a set of instructions that solves a specific problem. Understanding algorithms is crucial for writing efficient and effective code.\n3. **Data Structures**: Data structures are the building blocks of programming. They help organize and store data in a way that makes it easy to access and manipulate.\n4. **Computer Systems**: This branch deals with the design and implementation of computer hardware and software systems.\n5. **Networking**: Networking involves designing and implementing computer networks, including local area networks (LANs), wide area networks (WANs), and the internet.\n6. **Artificial Intelligence (AI) and Machine Learning (ML)**: AI and ML involve creating intelligent systems that can learn, reason, and interact with humans.\n7. **Database Systems**: Database systems involve designing and implementing databases to store and manage large amounts of data.\n8. **Human-Computer Interaction (HCI)**: HCI deals with designing user interfaces and experiences that are intuitive and user-friendly.\n\nNow, let's talk about some popular topics in computer science:\n\n* **Web development**: Building websites and web applications using HTML, CSS, JavaScript, and frameworks like React or Angular.\n* **Mobile app development**: Creating mobile apps for Android and iOS using languages like Java, Swift, or Kotlin.\n* **Game development**: Creating games for PCs, consoles, or mobile devices using languages like C++, Java, or Python.\n* **Data science**: Working with data to extract insights and make informed decisions using tools like Python, R, or SQL.\n\nWhich of these topics interests you the most? Or do you have a specific area in mind that you'd like to explore?\n\nI'm here to help you get started and provide guidance as you learn more about computer science!",
+      "parent_id": "34c1da05-0481-4fea-bc2d-eac1a50a753e",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T02:00:06.936254",
+      "last_accessed": "2024-09-02T08:41:11.276458"
+    }
+  },
+  "created": "2024-09-02T02:00:03.348331",
+  "last_accessed": "2024-09-02T08:41:11.276458"
+}

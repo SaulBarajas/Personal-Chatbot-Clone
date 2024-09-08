@@ -1,0 +1,88 @@
+{
+  "chat_id": "3a21cfa3-4624-43ef-9b0b-9e37d6b1d13e",
+  "user_id": "NotTemp",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 5,
+  "root_node_id": "a13ab142-35f8-4fe4-952a-c618aa129dc0",
+  "current_node_id": "9733bb86-387d-40a5-b65b-d341d866e6ba",
+  "node_map": {
+    "1ec4d218-cd2c-4036-950a-365d77376597": {
+      "id": "1ec4d218-cd2c-4036-950a-365d77376597",
+      "role": "user",
+      "content": "hello",
+      "parent_id": null,
+      "children_ids": [
+        "25fc2460-4a8b-4c4d-baad-96bc8fd2c160"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "a13ab142-35f8-4fe4-952a-c618aa129dc0",
+      "node_created": "2024-09-02T10:41:43.177823",
+      "last_accessed": "2024-09-02T10:42:10.056558"
+    },
+    "25fc2460-4a8b-4c4d-baad-96bc8fd2c160": {
+      "id": "25fc2460-4a8b-4c4d-baad-96bc8fd2c160",
+      "role": "assistant",
+      "content": "\n\nHello! How can I assist you today?",
+      "parent_id": "1ec4d218-cd2c-4036-950a-365d77376597",
+      "children_ids": [
+        "4fa01411-e89b-4539-ac5a-fb3ee27b9ea0"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:41:44.316546",
+      "last_accessed": "2024-09-02T10:42:10.056558"
+    },
+    "4fa01411-e89b-4539-ac5a-fb3ee27b9ea0": {
+      "id": "4fa01411-e89b-4539-ac5a-fb3ee27b9ea0",
+      "role": "user",
+      "content": "I like turtles",
+      "parent_id": "25fc2460-4a8b-4c4d-baad-96bc8fd2c160",
+      "children_ids": [
+        "7106f5f4-5275-4ed8-a8d1-40451e7c5caf"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:41:48.914673",
+      "last_accessed": "2024-09-02T10:42:10.056558"
+    },
+    "7106f5f4-5275-4ed8-a8d1-40451e7c5caf": {
+      "id": "7106f5f4-5275-4ed8-a8d1-40451e7c5caf",
+      "role": "assistant",
+      "content": "\n\nTurtles are amazing creatures! They're so slow and steady, and they've been around for millions of years. Did you know that turtles have been on Earth since the time of the dinosaurs?\n\nWhat's your favorite type of turtle? Do you have a favorite fact about turtles or a favorite way to learn about them?",
+      "parent_id": "4fa01411-e89b-4539-ac5a-fb3ee27b9ea0",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:41:49.506583",
+      "last_accessed": "2024-09-02T10:42:10.056558"
+    },
+    "a13ab142-35f8-4fe4-952a-c618aa129dc0": {
+      "id": "a13ab142-35f8-4fe4-952a-c618aa129dc0",
+      "role": "user",
+      "content": "hello, my name is alfred",
+      "parent_id": null,
+      "children_ids": [
+        "9733bb86-387d-40a5-b65b-d341d866e6ba"
+      ],
+      "prev_edit_id": "1ec4d218-cd2c-4036-950a-365d77376597",
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:42:09.410255",
+      "last_accessed": "2024-09-02T10:42:10.056558"
+    },
+    "9733bb86-387d-40a5-b65b-d341d866e6ba": {
+      "id": "9733bb86-387d-40a5-b65b-d341d866e6ba",
+      "role": "assistant",
+      "content": "\n\nHello Alfred! It's nice to meet you. Is there something I can help you with today?",
+      "parent_id": "a13ab142-35f8-4fe4-952a-c618aa129dc0",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T10:42:10.056558",
+      "last_accessed": "2024-09-02T10:42:10.056558"
+    }
+  },
+  "created": "2024-09-02T10:41:43.176824",
+  "last_accessed": "2024-09-02T10:42:10.056558"
+}

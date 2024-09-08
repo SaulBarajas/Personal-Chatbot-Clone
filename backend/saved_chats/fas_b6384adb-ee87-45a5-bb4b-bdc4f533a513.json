@@ -1,0 +1,105 @@
+{
+  "chat_id": "b6384adb-ee87-45a5-bb4b-bdc4f533a513",
+  "user_id": "fas",
+  "name": "Hello Chat",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 5,
+  "root_node_id": "7af83c85-d762-46bd-bddc-b611e94efc13",
+  "current_node_id": "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+  "node_map": {
+    "7af83c85-d762-46bd-bddc-b611e94efc13": {
+      "id": "7af83c85-d762-46bd-bddc-b611e94efc13",
+      "role": "user",
+      "content": "hey",
+      "parent_id": null,
+      "children_ids": [
+        "3a4400d3-6dc7-4334-88da-32fde1703be4"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T19:44:54.670085",
+      "last_accessed": "2024-09-03T20:22:06.218168"
+    },
+    "3a4400d3-6dc7-4334-88da-32fde1703be4": {
+      "id": "3a4400d3-6dc7-4334-88da-32fde1703be4",
+      "role": "assistant",
+      "content": "\n\nHow's it going? Is there something I can help you with or would you like to chat?",
+      "parent_id": "7af83c85-d762-46bd-bddc-b611e94efc13",
+      "children_ids": [
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+        "b5ddb663-58a8-4e22-ba38-cf44b6281db3"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T19:44:56.097569",
+      "last_accessed": "2024-09-03T20:22:06.218168"
+    },
+    "c93c2f73-d54a-4c9c-b5d6-678d096611ec": {
+      "id": "c93c2f73-d54a-4c9c-b5d6-678d096611ec",
+      "role": "user",
+      "content": "I want to learn biology",
+      "parent_id": "3a4400d3-6dc7-4334-88da-32fde1703be4",
+      "children_ids": [
+        "96d6f0b8-553a-44d6-99ec-5f1daf24c9b0"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+      "node_created": "2024-09-03T19:45:05.714382",
+      "last_accessed": "2024-09-03T20:22:06.218168"
+    },
+    "96d6f0b8-553a-44d6-99ec-5f1daf24c9b0": {
+      "id": "96d6f0b8-553a-44d6-99ec-5f1daf24c9b0",
+      "role": "assistant",
+      "content": "\n\nBiology is a fascinating field that can help you understand the world around you. Where would you like to start?\n\nHere are some options:\n\n1. **Cell Biology**: We can start with the basics of cells, including their structure, function, and division.\n2. **Genetics**: We can explore the world of genes, DNA, and heredity.\n3. **Evolution**: We can discuss the theory of evolution, natural selection, and how species adapt to their environments.\n4. **Ecology**: We can talk about the relationships between living organisms and their environments.\n5. **Specific topics**: Let me know if you have a specific area of biology that interests you, such as microbiology, botany, or zoology.\n\nWhich direction would you like to take?\n\n(Also, what's your current level of knowledge in biology? Beginner, intermediate, or advanced?)",
+      "parent_id": "c93c2f73-d54a-4c9c-b5d6-678d096611ec",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T19:45:06.659540",
+      "last_accessed": "2024-09-03T20:22:06.218168"
+    },
+    "b5ddb663-58a8-4e22-ba38-cf44b6281db3": {
+      "id": "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+      "role": "user",
+      "content": "I want to learn math",
+      "parent_id": "3a4400d3-6dc7-4334-88da-32fde1703be4",
+      "children_ids": [
+        "d23e82c8-ca79-4bd6-a065-c77b003103b3"
+      ],
+      "prev_edit_id": "c93c2f73-d54a-4c9c-b5d6-678d096611ec",
+      "next_edit_id": null,
+      "node_created": "2024-09-03T19:45:10.839860",
+      "last_accessed": "2024-09-03T20:22:06.218168"
+    },
+    "d23e82c8-ca79-4bd6-a065-c77b003103b3": {
+      "id": "d23e82c8-ca79-4bd6-a065-c77b003103b3",
+      "role": "assistant",
+      "content": "\n\nMath can be a fascinating subject. What specifically would you like to learn? Are you looking to review a particular concept, or do you want to start from the basics and work your way up?\n\nHere are some options to get you started:\n\n1. **Basic math concepts**: We can review addition, subtraction, multiplication, and division, or move on to more advanced topics like fractions, decimals, and percentages.\n2. **Algebra**: We can explore equations, graphing, and functions, or dive into more advanced topics like systems of equations and quadratic equations.\n3. **Geometry**: We can learn about points, lines, angles, and shapes, or explore more advanced topics like trigonometry and 3D geometry.\n4. **Calculus**: We can introduce the basics of limits, derivatives, and integrals, or explore more advanced topics like differential equations and multivariable calculus.\n5. **Math topics of your choice**: Is there a specific area of math that interests you, such as statistics, probability, or number theory?\n\nLet me know which direction you'd like to take, and we can get started!",
+      "parent_id": "b5ddb663-58a8-4e22-ba38-cf44b6281db3",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-03T19:45:13.955827",
+      "last_accessed": "2024-09-03T20:22:06.218168"
+    }
+  },
+  "created": "2024-09-03T19:44:54.670085",
+  "last_accessed": "2024-09-03T20:22:06.218168"
+}

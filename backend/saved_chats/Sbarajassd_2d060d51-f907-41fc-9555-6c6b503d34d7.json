@@ -1,0 +1,64 @@
+{
+  "chat_id": "2d060d51-f907-41fc-9555-6c6b503d34d7",
+  "user_id": "Sbarajassd",
+  "name": "Random Code",
+  "system_prompt": "You are a helpful assistant.",
+  "running_summary": "",
+  "message_count": 4,
+  "root_node_id": "af105a28-be06-47f2-bcbf-4eb758eeeefc",
+  "current_node_id": "614b4881-8b9c-4997-885b-e47f03cb8144",
+  "node_map": {
+    "af105a28-be06-47f2-bcbf-4eb758eeeefc": {
+      "id": "af105a28-be06-47f2-bcbf-4eb758eeeefc",
+      "role": "user",
+      "content": "can you code something random",
+      "parent_id": null,
+      "children_ids": [
+        "54d7f709-d4c2-42d7-b057-3d5b34707ca0"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T03:02:52.254998",
+      "last_accessed": "2024-09-02T06:34:48.561347"
+    },
+    "54d7f709-d4c2-42d7-b057-3d5b34707ca0": {
+      "id": "54d7f709-d4c2-42d7-b057-3d5b34707ca0",
+      "role": "assistant",
+      "content": "\n\nHere's a simple Python program that generates a random maze and allows you to navigate through it:\n\n```python\nimport random\n\nclass Maze:\n    def __init__(self, width, height):\n        self.width = width\n        self.height = height\n        self.maze = [[' ' for x in range(width)] for y in range(height)]\n\n    def generate_maze(self):\n        for y in range(self.height):\n            for x in range(self.width):\n                if random.random() < 0.2:\n                    self.maze[y][x] = '#'\n\n    def print_maze(self):\n        for row in self.maze:\n            print(' '.join(row))\n\n    def is_valid_move(self, x, y):\n        if x < 0 or x >= self.width or y < 0 or y >= self.height:\n            return False\n        return self.maze[y][x] == ' '\n\nmaze = Maze(20, 10)\nmaze.generate_maze()\nmaze.print_maze()\n\n# Let's say we want to navigate from the top left to the bottom right\nstart_x, start_y = 0, 0\nend_x, end_y = 19, 9\n\nwhile start_x != end_x or start_y != end_y:\n    print(f\"Current position: ({start_x}, {start_y})\")\n    move = input(\"Enter a direction (W/A/S/D): \")\n    if move.upper() == 'W' and start_y > 0 and maze.is_valid_move(start_x, start_y - 1):\n        start_y -= 1\n    elif move.upper() == 'A' and start_x > 0 and maze.is_valid_move(start_x - 1, start_y):\n        start_x -= 1\n    elif move.upper() == 'S' and start_y < maze.height - 1 and maze.is_valid_move(start_x, start_y + 1):\n        start_y += 1\n    elif move.upper() == 'D' and start_x < maze.width - 1 and maze.is_valid_move(start_x + 1, start_y):\n        start_x += 1\n    else:\n        print(\"Invalid move!\")\n```\n\nThis program generates a random maze and allows you to navigate through it by entering directions (W/A/S/D). The maze is represented as a 2D grid, where '#' represents a wall and ' ' represents an empty space. The program checks if a move is valid before allowing you to make it.",
+      "parent_id": "af105a28-be06-47f2-bcbf-4eb758eeeefc",
+      "children_ids": [
+        "33c96f60-3a8f-4dc4-94f3-0364cef63858"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T03:02:56.351340",
+      "last_accessed": "2024-09-02T06:34:48.561347"
+    },
+    "33c96f60-3a8f-4dc4-94f3-0364cef63858": {
+      "id": "33c96f60-3a8f-4dc4-94f3-0364cef63858",
+      "role": "user",
+      "content": "another thing",
+      "parent_id": "54d7f709-d4c2-42d7-b057-3d5b34707ca0",
+      "children_ids": [
+        "614b4881-8b9c-4997-885b-e47f03cb8144"
+      ],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T03:03:09.507601",
+      "last_accessed": "2024-09-02T06:34:48.561347"
+    },
+    "614b4881-8b9c-4997-885b-e47f03cb8144": {
+      "id": "614b4881-8b9c-4997-885b-e47f03cb8144",
+      "role": "assistant",
+      "content": "\n\nHere's a simple JavaScript program that generates a random password:\n\n```javascript\nfunction generatePassword(length) {\n  const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+-={}:<>?,./';\n  let password = '';\n  for (let i = 0; i < length; i++) {\n    password += characters.charAt(Math.floor(Math.random() * characters.length));\n  }\n  return password;\n}\n\nfunction copyToClipboard(text) {\n  const textarea = document.createElement('textarea');\n  textarea.value = text;\n  document.body.appendChild(textarea);\n  textarea.select();\n  document.execCommand('copy');\n  document.body.removeChild(textarea);\n}\n\nconst passwordLength = 12;\nconst password = generatePassword(passwordLength);\ndocument.getElementById('password').innerText = password;\ndocument.getElementById('copy-button').addEventListener('click', () => {\n  copyToClipboard(password);\n  alert('Password copied to clipboard!');\n});\n```\n\nThis program generates a random password of a specified length and displays it on the page. It also includes a button that, when clicked, copies the password to the clipboard.\n\nYou can add this code to an HTML file like this:\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <title>Password Generator</title>\n</head>\n<body>\n  <h1>Password Generator</h1>\n  <p id=\"password\"></p>\n  <button id=\"copy-button\">Copy to Clipboard</button>\n  <script src=\"script.js\"></script>\n</body>\n</html>\n```\n\nMake sure to replace \"script.js\" with the actual file name of the JavaScript file containing the code.",
+      "parent_id": "33c96f60-3a8f-4dc4-94f3-0364cef63858",
+      "children_ids": [],
+      "prev_edit_id": null,
+      "next_edit_id": null,
+      "node_created": "2024-09-02T03:03:12.305231",
+      "last_accessed": "2024-09-02T06:34:48.561347"
+    }
+  },
+  "created": "2024-09-02T03:02:52.254998",
+  "last_accessed": "2024-09-02T06:34:48.561347"
+}
